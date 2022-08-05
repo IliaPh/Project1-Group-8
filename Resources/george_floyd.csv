@@ -1,0 +1,2089 @@
+Date,Neighborhood,Crime,Number of Cases
+4/2020,Armatage,Aggravated Assault,0.0
+4/2020,Armatage,Arson,0.0
+4/2020,Armatage,Auto Theft,0.0
+4/2020,Armatage,Burglary,2.0
+4/2020,Armatage,Homicide,0.0
+4/2020,Armatage,Larceny,3.0
+4/2020,Armatage,Rape,0.0
+4/2020,Armatage,Robbery,0.0
+4/2020,Audubon Park,Aggravated Assault,0.0
+4/2020,Audubon Park,Arson,0.0
+4/2020,Audubon Park,Auto Theft,1.0
+4/2020,Audubon Park,Burglary,2.0
+4/2020,Audubon Park,Homicide,0.0
+4/2020,Audubon Park,Larceny,4.0
+4/2020,Audubon Park,Rape,1.0
+4/2020,Audubon Park,Robbery,1.0
+4/2020,Bancroft,Aggravated Assault,0.0
+4/2020,Bancroft,Arson,0.0
+4/2020,Bancroft,Auto Theft,3.0
+4/2020,Bancroft,Burglary,4.0
+4/2020,Bancroft,Homicide,0.0
+4/2020,Bancroft,Larceny,6.0
+4/2020,Bancroft,Rape,1.0
+4/2020,Bancroft,Robbery,1.0
+4/2020,Beltrami,Aggravated Assault,0.0
+4/2020,Beltrami,Arson,0.0
+4/2020,Beltrami,Auto Theft,0.0
+4/2020,Beltrami,Burglary,1.0
+4/2020,Beltrami,Homicide,0.0
+4/2020,Beltrami,Larceny,4.0
+4/2020,Beltrami,Rape,0.0
+4/2020,Beltrami,Robbery,0.0
+4/2020,Bottineau,Aggravated Assault,0.0
+4/2020,Bottineau,Arson,0.0
+4/2020,Bottineau,Auto Theft,0.0
+4/2020,Bottineau,Burglary,1.0
+4/2020,Bottineau,Homicide,0.0
+4/2020,Bottineau,Larceny,1.0
+4/2020,Bottineau,Rape,0.0
+4/2020,Bottineau,Robbery,0.0
+4/2020,Bryant,Aggravated Assault,3.0
+4/2020,Bryant,Arson,0.0
+4/2020,Bryant,Auto Theft,2.0
+4/2020,Bryant,Burglary,0.0
+4/2020,Bryant,Homicide,0.0
+4/2020,Bryant,Larceny,4.0
+4/2020,Bryant,Rape,0.0
+4/2020,Bryant,Robbery,0.0
+4/2020,Bryn - Mawr,Aggravated Assault,1.0
+4/2020,Bryn - Mawr,Arson,0.0
+4/2020,Bryn - Mawr,Auto Theft,1.0
+4/2020,Bryn - Mawr,Burglary,1.0
+4/2020,Bryn - Mawr,Homicide,0.0
+4/2020,Bryn - Mawr,Larceny,4.0
+4/2020,Bryn - Mawr,Rape,0.0
+4/2020,Bryn - Mawr,Robbery,0.0
+4/2020,South Uptown,Aggravated Assault,0.0
+4/2020,South Uptown,Arson,0.0
+4/2020,South Uptown,Auto Theft,4.0
+4/2020,South Uptown,Burglary,6.0
+4/2020,South Uptown,Homicide,0.0
+4/2020,South Uptown,Larceny,11.0
+4/2020,South Uptown,Rape,0.0
+4/2020,South Uptown,Robbery,2.0
+4/2020,Camden Industrial,Aggravated Assault,0.0
+4/2020,Camden Industrial,Arson,0.0
+4/2020,Camden Industrial,Auto Theft,2.0
+4/2020,Camden Industrial,Burglary,0.0
+4/2020,Camden Industrial,Homicide,0.0
+4/2020,Camden Industrial,Larceny,1.0
+4/2020,Camden Industrial,Rape,0.0
+4/2020,Camden Industrial,Robbery,0.0
+4/2020,Cedar - Isles - Dean,Aggravated Assault,0.0
+4/2020,Cedar - Isles - Dean,Arson,0.0
+4/2020,Cedar - Isles - Dean,Auto Theft,2.0
+4/2020,Cedar - Isles - Dean,Burglary,7.0
+4/2020,Cedar - Isles - Dean,Homicide,0.0
+4/2020,Cedar - Isles - Dean,Larceny,7.0
+4/2020,Cedar - Isles - Dean,Rape,0.0
+4/2020,Cedar - Isles - Dean,Robbery,0.0
+4/2020,Cedar Riverside,Aggravated Assault,2.0
+4/2020,Cedar Riverside,Arson,0.0
+4/2020,Cedar Riverside,Auto Theft,7.0
+4/2020,Cedar Riverside,Burglary,7.0
+4/2020,Cedar Riverside,Homicide,0.0
+4/2020,Cedar Riverside,Larceny,17.0
+4/2020,Cedar Riverside,Rape,0.0
+4/2020,Cedar Riverside,Robbery,5.0
+4/2020,Central,Aggravated Assault,2.0
+4/2020,Central,Arson,0.0
+4/2020,Central,Auto Theft,5.0
+4/2020,Central,Burglary,1.0
+4/2020,Central,Homicide,0.0
+4/2020,Central,Larceny,9.0
+4/2020,Central,Rape,0.0
+4/2020,Central,Robbery,2.0
+4/2020,Cleveland,Aggravated Assault,2.0
+4/2020,Cleveland,Arson,0.0
+4/2020,Cleveland,Auto Theft,2.0
+4/2020,Cleveland,Burglary,5.0
+4/2020,Cleveland,Homicide,0.0
+4/2020,Cleveland,Larceny,4.0
+4/2020,Cleveland,Rape,0.0
+4/2020,Cleveland,Robbery,0.0
+4/2020,Columbia Park,Aggravated Assault,0.0
+4/2020,Columbia Park,Arson,0.0
+4/2020,Columbia Park,Auto Theft,1.0
+4/2020,Columbia Park,Burglary,0.0
+4/2020,Columbia Park,Homicide,0.0
+4/2020,Columbia Park,Larceny,3.0
+4/2020,Columbia Park,Rape,0.0
+4/2020,Columbia Park,Robbery,0.0
+4/2020,Como,Aggravated Assault,3.0
+4/2020,Como,Arson,0.0
+4/2020,Como,Auto Theft,6.0
+4/2020,Como,Burglary,2.0
+4/2020,Como,Homicide,0.0
+4/2020,Como,Larceny,17.0
+4/2020,Como,Rape,1.0
+4/2020,Como,Robbery,0.0
+4/2020,Cooper,Aggravated Assault,0.0
+4/2020,Cooper,Arson,0.0
+4/2020,Cooper,Auto Theft,1.0
+4/2020,Cooper,Burglary,2.0
+4/2020,Cooper,Homicide,0.0
+4/2020,Cooper,Larceny,7.0
+4/2020,Cooper,Rape,0.0
+4/2020,Cooper,Robbery,0.0
+4/2020,Corcoran,Aggravated Assault,0.0
+4/2020,Corcoran,Arson,0.0
+4/2020,Corcoran,Auto Theft,2.0
+4/2020,Corcoran,Burglary,6.0
+4/2020,Corcoran,Homicide,0.0
+4/2020,Corcoran,Larceny,15.0
+4/2020,Corcoran,Rape,0.0
+4/2020,Corcoran,Robbery,0.0
+4/2020,Diamond Lake,Aggravated Assault,0.0
+4/2020,Diamond Lake,Arson,0.0
+4/2020,Diamond Lake,Auto Theft,5.0
+4/2020,Diamond Lake,Burglary,1.0
+4/2020,Diamond Lake,Homicide,0.0
+4/2020,Diamond Lake,Larceny,3.0
+4/2020,Diamond Lake,Rape,1.0
+4/2020,Diamond Lake,Robbery,0.0
+4/2020,Downtown East,Aggravated Assault,1.0
+4/2020,Downtown East,Arson,0.0
+4/2020,Downtown East,Auto Theft,0.0
+4/2020,Downtown East,Burglary,2.0
+4/2020,Downtown East,Homicide,0.0
+4/2020,Downtown East,Larceny,7.0
+4/2020,Downtown East,Rape,0.0
+4/2020,Downtown East,Robbery,0.0
+4/2020,Downtown West,Aggravated Assault,10.0
+4/2020,Downtown West,Arson,0.0
+4/2020,Downtown West,Auto Theft,4.0
+4/2020,Downtown West,Burglary,12.0
+4/2020,Downtown West,Homicide,0.0
+4/2020,Downtown West,Larceny,34.0
+4/2020,Downtown West,Rape,1.0
+4/2020,Downtown West,Robbery,2.0
+4/2020,East Bde Maka Ska,Aggravated Assault,0.0
+4/2020,East Bde Maka Ska,Arson,0.0
+4/2020,East Bde Maka Ska,Auto Theft,0.0
+4/2020,East Bde Maka Ska,Burglary,3.0
+4/2020,East Bde Maka Ska,Homicide,0.0
+4/2020,East Bde Maka Ska,Larceny,6.0
+4/2020,East Bde Maka Ska,Rape,0.0
+4/2020,East Bde Maka Ska,Robbery,0.0
+4/2020,East Harriet,Aggravated Assault,0.0
+4/2020,East Harriet,Arson,0.0
+4/2020,East Harriet,Auto Theft,3.0
+4/2020,East Harriet,Burglary,0.0
+4/2020,East Harriet,Homicide,0.0
+4/2020,East Harriet,Larceny,8.0
+4/2020,East Harriet,Rape,0.0
+4/2020,East Harriet,Robbery,0.0
+4/2020,East Isles,Aggravated Assault,1.0
+4/2020,East Isles,Arson,0.0
+4/2020,East Isles,Auto Theft,4.0
+4/2020,East Isles,Burglary,7.0
+4/2020,East Isles,Homicide,0.0
+4/2020,East Isles,Larceny,8.0
+4/2020,East Isles,Rape,0.0
+4/2020,East Isles,Robbery,1.0
+4/2020,East Phillips,Aggravated Assault,3.0
+4/2020,East Phillips,Arson,0.0
+4/2020,East Phillips,Auto Theft,8.0
+4/2020,East Phillips,Burglary,7.0
+4/2020,East Phillips,Homicide,0.0
+4/2020,East Phillips,Larceny,18.0
+4/2020,East Phillips,Rape,0.0
+4/2020,East Phillips,Robbery,4.0
+4/2020,Elliot Park,Aggravated Assault,2.0
+4/2020,Elliot Park,Arson,0.0
+4/2020,Elliot Park,Auto Theft,3.0
+4/2020,Elliot Park,Burglary,6.0
+4/2020,Elliot Park,Homicide,0.0
+4/2020,Elliot Park,Larceny,13.0
+4/2020,Elliot Park,Rape,0.0
+4/2020,Elliot Park,Robbery,1.0
+4/2020,Ericsson,Aggravated Assault,0.0
+4/2020,Ericsson,Arson,0.0
+4/2020,Ericsson,Auto Theft,2.0
+4/2020,Ericsson,Burglary,3.0
+4/2020,Ericsson,Homicide,0.0
+4/2020,Ericsson,Larceny,5.0
+4/2020,Ericsson,Rape,0.0
+4/2020,Ericsson,Robbery,0.0
+4/2020,Field,Aggravated Assault,0.0
+4/2020,Field,Arson,0.0
+4/2020,Field,Auto Theft,0.0
+4/2020,Field,Burglary,1.0
+4/2020,Field,Homicide,0.0
+4/2020,Field,Larceny,0.0
+4/2020,Field,Rape,0.0
+4/2020,Field,Robbery,0.0
+4/2020,Folwell,Aggravated Assault,9.0
+4/2020,Folwell,Arson,0.0
+4/2020,Folwell,Auto Theft,4.0
+4/2020,Folwell,Burglary,1.0
+4/2020,Folwell,Homicide,0.0
+4/2020,Folwell,Larceny,11.0
+4/2020,Folwell,Rape,1.0
+4/2020,Folwell,Robbery,5.0
+4/2020,Fulton,Aggravated Assault,0.0
+4/2020,Fulton,Arson,0.0
+4/2020,Fulton,Auto Theft,0.0
+4/2020,Fulton,Burglary,1.0
+4/2020,Fulton,Homicide,0.0
+4/2020,Fulton,Larceny,1.0
+4/2020,Fulton,Rape,0.0
+4/2020,Fulton,Robbery,0.0
+4/2020,Hale,Aggravated Assault,0.0
+4/2020,Hale,Arson,0.0
+4/2020,Hale,Auto Theft,0.0
+4/2020,Hale,Burglary,1.0
+4/2020,Hale,Homicide,0.0
+4/2020,Hale,Larceny,5.0
+4/2020,Hale,Rape,0.0
+4/2020,Hale,Robbery,0.0
+4/2020,Harrison,Aggravated Assault,3.0
+4/2020,Harrison,Arson,1.0
+4/2020,Harrison,Auto Theft,1.0
+4/2020,Harrison,Burglary,0.0
+4/2020,Harrison,Homicide,0.0
+4/2020,Harrison,Larceny,5.0
+4/2020,Harrison,Rape,0.0
+4/2020,Harrison,Robbery,2.0
+4/2020,Hawthorne,Aggravated Assault,5.0
+4/2020,Hawthorne,Arson,0.0
+4/2020,Hawthorne,Auto Theft,8.0
+4/2020,Hawthorne,Burglary,2.0
+4/2020,Hawthorne,Homicide,0.0
+4/2020,Hawthorne,Larceny,13.0
+4/2020,Hawthorne,Rape,1.0
+4/2020,Hawthorne,Robbery,2.0
+4/2020,Hiawatha,Aggravated Assault,1.0
+4/2020,Hiawatha,Arson,0.0
+4/2020,Hiawatha,Auto Theft,4.0
+4/2020,Hiawatha,Burglary,6.0
+4/2020,Hiawatha,Homicide,0.0
+4/2020,Hiawatha,Larceny,10.0
+4/2020,Hiawatha,Rape,0.0
+4/2020,Hiawatha,Robbery,1.0
+4/2020,Holland,Aggravated Assault,3.0
+4/2020,Holland,Arson,0.0
+4/2020,Holland,Auto Theft,1.0
+4/2020,Holland,Burglary,4.0
+4/2020,Holland,Homicide,0.0
+4/2020,Holland,Larceny,5.0
+4/2020,Holland,Rape,1.0
+4/2020,Holland,Robbery,1.0
+4/2020,Howe,Aggravated Assault,1.0
+4/2020,Howe,Arson,0.0
+4/2020,Howe,Auto Theft,4.0
+4/2020,Howe,Burglary,4.0
+4/2020,Howe,Homicide,0.0
+4/2020,Howe,Larceny,9.0
+4/2020,Howe,Rape,0.0
+4/2020,Howe,Robbery,0.0
+4/2020,Humboldt Industrial Area,Aggravated Assault,0.0
+4/2020,Humboldt Industrial Area,Arson,0.0
+4/2020,Humboldt Industrial Area,Auto Theft,0.0
+4/2020,Humboldt Industrial Area,Burglary,0.0
+4/2020,Humboldt Industrial Area,Homicide,0.0
+4/2020,Humboldt Industrial Area,Larceny,0.0
+4/2020,Humboldt Industrial Area,Rape,0.0
+4/2020,Humboldt Industrial Area,Robbery,0.0
+4/2020,Jordan,Aggravated Assault,13.0
+4/2020,Jordan,Arson,0.0
+4/2020,Jordan,Auto Theft,5.0
+4/2020,Jordan,Burglary,4.0
+4/2020,Jordan,Homicide,0.0
+4/2020,Jordan,Larceny,5.0
+4/2020,Jordan,Rape,1.0
+4/2020,Jordan,Robbery,4.0
+4/2020,Keewaydin,Aggravated Assault,0.0
+4/2020,Keewaydin,Arson,0.0
+4/2020,Keewaydin,Auto Theft,0.0
+4/2020,Keewaydin,Burglary,1.0
+4/2020,Keewaydin,Homicide,0.0
+4/2020,Keewaydin,Larceny,4.0
+4/2020,Keewaydin,Rape,0.0
+4/2020,Keewaydin,Robbery,0.0
+4/2020,Kenny,Aggravated Assault,1.0
+4/2020,Kenny,Arson,0.0
+4/2020,Kenny,Auto Theft,0.0
+4/2020,Kenny,Burglary,3.0
+4/2020,Kenny,Homicide,0.0
+4/2020,Kenny,Larceny,3.0
+4/2020,Kenny,Rape,0.0
+4/2020,Kenny,Robbery,0.0
+4/2020,Kenwood,Aggravated Assault,0.0
+4/2020,Kenwood,Arson,0.0
+4/2020,Kenwood,Auto Theft,1.0
+4/2020,Kenwood,Burglary,0.0
+4/2020,Kenwood,Homicide,0.0
+4/2020,Kenwood,Larceny,2.0
+4/2020,Kenwood,Rape,0.0
+4/2020,Kenwood,Robbery,0.0
+4/2020,King Field,Aggravated Assault,1.0
+4/2020,King Field,Arson,0.0
+4/2020,King Field,Auto Theft,5.0
+4/2020,King Field,Burglary,9.0
+4/2020,King Field,Homicide,0.0
+4/2020,King Field,Larceny,12.0
+4/2020,King Field,Rape,0.0
+4/2020,King Field,Robbery,0.0
+4/2020,Lind - Bohanon,Aggravated Assault,2.0
+4/2020,Lind - Bohanon,Arson,0.0
+4/2020,Lind - Bohanon,Auto Theft,4.0
+4/2020,Lind - Bohanon,Burglary,2.0
+4/2020,Lind - Bohanon,Homicide,0.0
+4/2020,Lind - Bohanon,Larceny,6.0
+4/2020,Lind - Bohanon,Rape,0.0
+4/2020,Lind - Bohanon,Robbery,1.0
+4/2020,Linden Hills,Aggravated Assault,0.0
+4/2020,Linden Hills,Arson,0.0
+4/2020,Linden Hills,Auto Theft,1.0
+4/2020,Linden Hills,Burglary,1.0
+4/2020,Linden Hills,Homicide,0.0
+4/2020,Linden Hills,Larceny,3.0
+4/2020,Linden Hills,Rape,0.0
+4/2020,Linden Hills,Robbery,1.0
+4/2020,Logan Park,Aggravated Assault,0.0
+4/2020,Logan Park,Arson,0.0
+4/2020,Logan Park,Auto Theft,2.0
+4/2020,Logan Park,Burglary,5.0
+4/2020,Logan Park,Homicide,0.0
+4/2020,Logan Park,Larceny,0.0
+4/2020,Logan Park,Rape,0.0
+4/2020,Logan Park,Robbery,0.0
+4/2020,Longfellow,Aggravated Assault,3.0
+4/2020,Longfellow,Arson,0.0
+4/2020,Longfellow,Auto Theft,9.0
+4/2020,Longfellow,Burglary,6.0
+4/2020,Longfellow,Homicide,0.0
+4/2020,Longfellow,Larceny,35.0
+4/2020,Longfellow,Rape,2.0
+4/2020,Longfellow,Robbery,4.0
+4/2020,Loring Park,Aggravated Assault,5.0
+4/2020,Loring Park,Arson,0.0
+4/2020,Loring Park,Auto Theft,3.0
+4/2020,Loring Park,Burglary,8.0
+4/2020,Loring Park,Homicide,0.0
+4/2020,Loring Park,Larceny,29.0
+4/2020,Loring Park,Rape,1.0
+4/2020,Loring Park,Robbery,6.0
+4/2020,Lowry Hill,Aggravated Assault,0.0
+4/2020,Lowry Hill,Arson,0.0
+4/2020,Lowry Hill,Auto Theft,0.0
+4/2020,Lowry Hill,Burglary,5.0
+4/2020,Lowry Hill,Homicide,0.0
+4/2020,Lowry Hill,Larceny,4.0
+4/2020,Lowry Hill,Rape,0.0
+4/2020,Lowry Hill,Robbery,0.0
+4/2020,Lowry Hill East,Aggravated Assault,3.0
+4/2020,Lowry Hill East,Arson,0.0
+4/2020,Lowry Hill East,Auto Theft,8.0
+4/2020,Lowry Hill East,Burglary,14.0
+4/2020,Lowry Hill East,Homicide,0.0
+4/2020,Lowry Hill East,Larceny,21.0
+4/2020,Lowry Hill East,Rape,0.0
+4/2020,Lowry Hill East,Robbery,2.0
+4/2020,Lyndale,Aggravated Assault,2.0
+4/2020,Lyndale,Arson,0.0
+4/2020,Lyndale,Auto Theft,2.0
+4/2020,Lyndale,Burglary,6.0
+4/2020,Lyndale,Homicide,0.0
+4/2020,Lyndale,Larceny,13.0
+4/2020,Lyndale,Rape,0.0
+4/2020,Lyndale,Robbery,3.0
+4/2020,Lynnhurst,Aggravated Assault,0.0
+4/2020,Lynnhurst,Arson,0.0
+4/2020,Lynnhurst,Auto Theft,2.0
+4/2020,Lynnhurst,Burglary,1.0
+4/2020,Lynnhurst,Homicide,0.0
+4/2020,Lynnhurst,Larceny,6.0
+4/2020,Lynnhurst,Rape,0.0
+4/2020,Lynnhurst,Robbery,0.0
+4/2020,Marcy Holmes,Aggravated Assault,1.0
+4/2020,Marcy Holmes,Arson,0.0
+4/2020,Marcy Holmes,Auto Theft,13.0
+4/2020,Marcy Holmes,Burglary,11.0
+4/2020,Marcy Holmes,Homicide,0.0
+4/2020,Marcy Holmes,Larceny,44.0
+4/2020,Marcy Holmes,Rape,1.0
+4/2020,Marcy Holmes,Robbery,1.0
+4/2020,Marshall Terrace,Aggravated Assault,0.0
+4/2020,Marshall Terrace,Arson,0.0
+4/2020,Marshall Terrace,Auto Theft,2.0
+4/2020,Marshall Terrace,Burglary,0.0
+4/2020,Marshall Terrace,Homicide,0.0
+4/2020,Marshall Terrace,Larceny,3.0
+4/2020,Marshall Terrace,Rape,0.0
+4/2020,Marshall Terrace,Robbery,0.0
+4/2020,McKinley,Aggravated Assault,5.0
+4/2020,McKinley,Arson,0.0
+4/2020,McKinley,Auto Theft,4.0
+4/2020,McKinley,Burglary,1.0
+4/2020,McKinley,Homicide,0.0
+4/2020,McKinley,Larceny,4.0
+4/2020,McKinley,Rape,0.0
+4/2020,McKinley,Robbery,1.0
+4/2020,Mid - City Industrial,Aggravated Assault,0.0
+4/2020,Mid - City Industrial,Arson,0.0
+4/2020,Mid - City Industrial,Auto Theft,1.0
+4/2020,Mid - City Industrial,Burglary,0.0
+4/2020,Mid - City Industrial,Homicide,0.0
+4/2020,Mid - City Industrial,Larceny,9.0
+4/2020,Mid - City Industrial,Rape,0.0
+4/2020,Mid - City Industrial,Robbery,0.0
+4/2020,Midtown Phillips,Aggravated Assault,2.0
+4/2020,Midtown Phillips,Arson,0.0
+4/2020,Midtown Phillips,Auto Theft,4.0
+4/2020,Midtown Phillips,Burglary,8.0
+4/2020,Midtown Phillips,Homicide,0.0
+4/2020,Midtown Phillips,Larceny,15.0
+4/2020,Midtown Phillips,Rape,2.0
+4/2020,Midtown Phillips,Robbery,2.0
+4/2020,Minnehaha,Aggravated Assault,0.0
+4/2020,Minnehaha,Arson,0.0
+4/2020,Minnehaha,Auto Theft,3.0
+4/2020,Minnehaha,Burglary,1.0
+4/2020,Minnehaha,Homicide,0.0
+4/2020,Minnehaha,Larceny,12.0
+4/2020,Minnehaha,Rape,0.0
+4/2020,Minnehaha,Robbery,0.0
+4/2020,Morris Park,Aggravated Assault,0.0
+4/2020,Morris Park,Arson,0.0
+4/2020,Morris Park,Auto Theft,0.0
+4/2020,Morris Park,Burglary,1.0
+4/2020,Morris Park,Homicide,0.0
+4/2020,Morris Park,Larceny,2.0
+4/2020,Morris Park,Rape,0.0
+4/2020,Morris Park,Robbery,0.0
+4/2020,Near - North,Aggravated Assault,1.0
+4/2020,Near - North,Arson,1.0
+4/2020,Near - North,Auto Theft,8.0
+4/2020,Near - North,Burglary,2.0
+4/2020,Near - North,Homicide,1.0
+4/2020,Near - North,Larceny,29.0
+4/2020,Near - North,Rape,0.0
+4/2020,Near - North,Robbery,4.0
+4/2020,Nicollet Island - East Bank,Aggravated Assault,0.0
+4/2020,Nicollet Island - East Bank,Arson,0.0
+4/2020,Nicollet Island - East Bank,Auto Theft,0.0
+4/2020,Nicollet Island - East Bank,Burglary,3.0
+4/2020,Nicollet Island - East Bank,Homicide,0.0
+4/2020,Nicollet Island - East Bank,Larceny,9.0
+4/2020,Nicollet Island - East Bank,Rape,0.0
+4/2020,Nicollet Island - East Bank,Robbery,0.0
+4/2020,North Loop,Aggravated Assault,3.0
+4/2020,North Loop,Arson,0.0
+4/2020,North Loop,Auto Theft,2.0
+4/2020,North Loop,Burglary,16.0
+4/2020,North Loop,Homicide,0.0
+4/2020,North Loop,Larceny,33.0
+4/2020,North Loop,Rape,2.0
+4/2020,North Loop,Robbery,0.0
+4/2020,Northeast Park,Aggravated Assault,0.0
+4/2020,Northeast Park,Arson,0.0
+4/2020,Northeast Park,Auto Theft,0.0
+4/2020,Northeast Park,Burglary,1.0
+4/2020,Northeast Park,Homicide,0.0
+4/2020,Northeast Park,Larceny,8.0
+4/2020,Northeast Park,Rape,0.0
+4/2020,Northeast Park,Robbery,0.0
+4/2020,Northrop,Aggravated Assault,0.0
+4/2020,Northrop,Arson,0.0
+4/2020,Northrop,Auto Theft,1.0
+4/2020,Northrop,Burglary,4.0
+4/2020,Northrop,Homicide,0.0
+4/2020,Northrop,Larceny,15.0
+4/2020,Northrop,Rape,0.0
+4/2020,Northrop,Robbery,0.0
+4/2020,Page,Aggravated Assault,0.0
+4/2020,Page,Arson,0.0
+4/2020,Page,Auto Theft,1.0
+4/2020,Page,Burglary,0.0
+4/2020,Page,Homicide,0.0
+4/2020,Page,Larceny,3.0
+4/2020,Page,Rape,0.0
+4/2020,Page,Robbery,0.0
+4/2020,Phillips West,Aggravated Assault,1.0
+4/2020,Phillips West,Arson,0.0
+4/2020,Phillips West,Auto Theft,5.0
+4/2020,Phillips West,Burglary,5.0
+4/2020,Phillips West,Homicide,0.0
+4/2020,Phillips West,Larceny,5.0
+4/2020,Phillips West,Rape,0.0
+4/2020,Phillips West,Robbery,3.0
+4/2020,Powderhorn Park,Aggravated Assault,1.0
+4/2020,Powderhorn Park,Arson,0.0
+4/2020,Powderhorn Park,Auto Theft,6.0
+4/2020,Powderhorn Park,Burglary,7.0
+4/2020,Powderhorn Park,Homicide,0.0
+4/2020,Powderhorn Park,Larceny,11.0
+4/2020,Powderhorn Park,Rape,0.0
+4/2020,Powderhorn Park,Robbery,3.0
+4/2020,Prospect Park - East River Road,Aggravated Assault,1.0
+4/2020,Prospect Park - East River Road,Arson,0.0
+4/2020,Prospect Park - East River Road,Auto Theft,4.0
+4/2020,Prospect Park - East River Road,Burglary,2.0
+4/2020,Prospect Park - East River Road,Homicide,0.0
+4/2020,Prospect Park - East River Road,Larceny,24.0
+4/2020,Prospect Park - East River Road,Rape,0.0
+4/2020,Prospect Park - East River Road,Robbery,4.0
+4/2020,Regina,Aggravated Assault,1.0
+4/2020,Regina,Arson,0.0
+4/2020,Regina,Auto Theft,2.0
+4/2020,Regina,Burglary,2.0
+4/2020,Regina,Homicide,0.0
+4/2020,Regina,Larceny,2.0
+4/2020,Regina,Rape,0.0
+4/2020,Regina,Robbery,0.0
+4/2020,Seward,Aggravated Assault,2.0
+4/2020,Seward,Arson,0.0
+4/2020,Seward,Auto Theft,15.0
+4/2020,Seward,Burglary,14.0
+4/2020,Seward,Homicide,0.0
+4/2020,Seward,Larceny,24.0
+4/2020,Seward,Rape,0.0
+4/2020,Seward,Robbery,1.0
+4/2020,Sheridan,Aggravated Assault,1.0
+4/2020,Sheridan,Arson,0.0
+4/2020,Sheridan,Auto Theft,3.0
+4/2020,Sheridan,Burglary,3.0
+4/2020,Sheridan,Homicide,0.0
+4/2020,Sheridan,Larceny,3.0
+4/2020,Sheridan,Rape,0.0
+4/2020,Sheridan,Robbery,0.0
+4/2020,Shingle Creek,Aggravated Assault,1.0
+4/2020,Shingle Creek,Arson,0.0
+4/2020,Shingle Creek,Auto Theft,1.0
+4/2020,Shingle Creek,Burglary,2.0
+4/2020,Shingle Creek,Homicide,0.0
+4/2020,Shingle Creek,Larceny,1.0
+4/2020,Shingle Creek,Rape,0.0
+4/2020,Shingle Creek,Robbery,0.0
+4/2020,St. Anthony East,Aggravated Assault,0.0
+4/2020,St. Anthony East,Arson,0.0
+4/2020,St. Anthony East,Auto Theft,0.0
+4/2020,St. Anthony East,Burglary,3.0
+4/2020,St. Anthony East,Homicide,0.0
+4/2020,St. Anthony East,Larceny,5.0
+4/2020,St. Anthony East,Rape,0.0
+4/2020,St. Anthony East,Robbery,0.0
+4/2020,St. Anthony West,Aggravated Assault,0.0
+4/2020,St. Anthony West,Arson,1.0
+4/2020,St. Anthony West,Auto Theft,0.0
+4/2020,St. Anthony West,Burglary,3.0
+4/2020,St. Anthony West,Homicide,0.0
+4/2020,St. Anthony West,Larceny,2.0
+4/2020,St. Anthony West,Rape,0.0
+4/2020,St. Anthony West,Robbery,1.0
+4/2020,Standish,Aggravated Assault,2.0
+4/2020,Standish,Arson,0.0
+4/2020,Standish,Auto Theft,2.0
+4/2020,Standish,Burglary,6.0
+4/2020,Standish,Homicide,0.0
+4/2020,Standish,Larceny,6.0
+4/2020,Standish,Rape,0.0
+4/2020,Standish,Robbery,0.0
+4/2020,Steven's Square - Loring Heights,Aggravated Assault,4.0
+4/2020,Steven's Square - Loring Heights,Arson,0.0
+4/2020,Steven's Square - Loring Heights,Auto Theft,5.0
+4/2020,Steven's Square - Loring Heights,Burglary,3.0
+4/2020,Steven's Square - Loring Heights,Homicide,0.0
+4/2020,Steven's Square - Loring Heights,Larceny,18.0
+4/2020,Steven's Square - Loring Heights,Rape,0.0
+4/2020,Steven's Square - Loring Heights,Robbery,3.0
+4/2020,Sumner - Glenwood,Aggravated Assault,2.0
+4/2020,Sumner - Glenwood,Arson,0.0
+4/2020,Sumner - Glenwood,Auto Theft,1.0
+4/2020,Sumner - Glenwood,Burglary,1.0
+4/2020,Sumner - Glenwood,Homicide,0.0
+4/2020,Sumner - Glenwood,Larceny,2.0
+4/2020,Sumner - Glenwood,Rape,0.0
+4/2020,Sumner - Glenwood,Robbery,0.0
+4/2020,Tangletown,Aggravated Assault,0.0
+4/2020,Tangletown,Arson,0.0
+4/2020,Tangletown,Auto Theft,0.0
+4/2020,Tangletown,Burglary,2.0
+4/2020,Tangletown,Homicide,0.0
+4/2020,Tangletown,Larceny,5.0
+4/2020,Tangletown,Rape,0.0
+4/2020,Tangletown,Robbery,0.0
+4/2020,University of Minnesota,Aggravated Assault,0.0
+4/2020,University of Minnesota,Arson,0.0
+4/2020,University of Minnesota,Auto Theft,1.0
+4/2020,University of Minnesota,Burglary,1.0
+4/2020,University of Minnesota,Homicide,0.0
+4/2020,University of Minnesota,Larceny,5.0
+4/2020,University of Minnesota,Rape,0.0
+4/2020,University of Minnesota,Robbery,0.0
+4/2020,Ventura Village,Aggravated Assault,7.0
+4/2020,Ventura Village,Arson,0.0
+4/2020,Ventura Village,Auto Theft,5.0
+4/2020,Ventura Village,Burglary,5.0
+4/2020,Ventura Village,Homicide,1.0
+4/2020,Ventura Village,Larceny,18.0
+4/2020,Ventura Village,Rape,1.0
+4/2020,Ventura Village,Robbery,5.0
+4/2020,Victory,Aggravated Assault,0.0
+4/2020,Victory,Arson,0.0
+4/2020,Victory,Auto Theft,5.0
+4/2020,Victory,Burglary,3.0
+4/2020,Victory,Homicide,0.0
+4/2020,Victory,Larceny,7.0
+4/2020,Victory,Rape,0.0
+4/2020,Victory,Robbery,0.0
+4/2020,Waite Park,Aggravated Assault,1.0
+4/2020,Waite Park,Arson,0.0
+4/2020,Waite Park,Auto Theft,1.0
+4/2020,Waite Park,Burglary,1.0
+4/2020,Waite Park,Homicide,0.0
+4/2020,Waite Park,Larceny,8.0
+4/2020,Waite Park,Rape,1.0
+4/2020,Waite Park,Robbery,1.0
+4/2020,Webber - Camden,Aggravated Assault,2.0
+4/2020,Webber - Camden,Arson,0.0
+4/2020,Webber - Camden,Auto Theft,3.0
+4/2020,Webber - Camden,Burglary,2.0
+4/2020,Webber - Camden,Homicide,0.0
+4/2020,Webber - Camden,Larceny,6.0
+4/2020,Webber - Camden,Rape,0.0
+4/2020,Webber - Camden,Robbery,2.0
+4/2020,Wenonah,Aggravated Assault,3.0
+4/2020,Wenonah,Arson,0.0
+4/2020,Wenonah,Auto Theft,0.0
+4/2020,Wenonah,Burglary,2.0
+4/2020,Wenonah,Homicide,0.0
+4/2020,Wenonah,Larceny,8.0
+4/2020,Wenonah,Rape,0.0
+4/2020,Wenonah,Robbery,0.0
+4/2020,West Maka Ska,Aggravated Assault,1.0
+4/2020,West Maka Ska,Arson,0.0
+4/2020,West Maka Ska,Auto Theft,0.0
+4/2020,West Maka Ska,Burglary,3.0
+4/2020,West Maka Ska,Homicide,0.0
+4/2020,West Maka Ska,Larceny,4.0
+4/2020,West Maka Ska,Rape,0.0
+4/2020,West Maka Ska,Robbery,0.0
+4/2020,Whittier,Aggravated Assault,5.0
+4/2020,Whittier,Arson,0.0
+4/2020,Whittier,Auto Theft,9.0
+4/2020,Whittier,Burglary,26.0
+4/2020,Whittier,Homicide,0.0
+4/2020,Whittier,Larceny,39.0
+4/2020,Whittier,Rape,3.0
+4/2020,Whittier,Robbery,3.0
+4/2020,Willard - Hay,Aggravated Assault,3.0
+4/2020,Willard - Hay,Arson,0.0
+4/2020,Willard - Hay,Auto Theft,5.0
+4/2020,Willard - Hay,Burglary,6.0
+4/2020,Willard - Hay,Homicide,0.0
+4/2020,Willard - Hay,Larceny,21.0
+4/2020,Willard - Hay,Rape,0.0
+4/2020,Willard - Hay,Robbery,0.0
+4/2020,Windom,Aggravated Assault,0.0
+4/2020,Windom,Arson,0.0
+4/2020,Windom,Auto Theft,4.0
+4/2020,Windom,Burglary,2.0
+4/2020,Windom,Homicide,0.0
+4/2020,Windom,Larceny,8.0
+4/2020,Windom,Rape,1.0
+4/2020,Windom,Robbery,1.0
+4/2020,Windom Park,Aggravated Assault,0.0
+4/2020,Windom Park,Arson,0.0
+4/2020,Windom Park,Auto Theft,0.0
+4/2020,Windom Park,Burglary,0.0
+4/2020,Windom Park,Homicide,0.0
+4/2020,Windom Park,Larceny,6.0
+4/2020,Windom Park,Rape,0.0
+4/2020,Windom Park,Robbery,1.0
+5/2020,Armatage,Aggravated Assault,1.0
+5/2020,Armatage,Arson,0.0
+5/2020,Armatage,Auto Theft,0.0
+5/2020,Armatage,Burglary,6.0
+5/2020,Armatage,Homicide,0.0
+5/2020,Armatage,Larceny,2.0
+5/2020,Armatage,Rape,0.0
+5/2020,Armatage,Robbery,0.0
+5/2020,Audubon Park,Aggravated Assault,0.0
+5/2020,Audubon Park,Arson,0.0
+5/2020,Audubon Park,Auto Theft,0.0
+5/2020,Audubon Park,Burglary,0.0
+5/2020,Audubon Park,Homicide,0.0
+5/2020,Audubon Park,Larceny,6.0
+5/2020,Audubon Park,Rape,0.0
+5/2020,Audubon Park,Robbery,0.0
+5/2020,Bancroft,Aggravated Assault,2.0
+5/2020,Bancroft,Arson,0.0
+5/2020,Bancroft,Auto Theft,6.0
+5/2020,Bancroft,Burglary,2.0
+5/2020,Bancroft,Homicide,0.0
+5/2020,Bancroft,Larceny,7.0
+5/2020,Bancroft,Rape,0.0
+5/2020,Bancroft,Robbery,0.0
+5/2020,Beltrami,Aggravated Assault,0.0
+5/2020,Beltrami,Arson,0.0
+5/2020,Beltrami,Auto Theft,2.0
+5/2020,Beltrami,Burglary,0.0
+5/2020,Beltrami,Homicide,0.0
+5/2020,Beltrami,Larceny,1.0
+5/2020,Beltrami,Rape,0.0
+5/2020,Beltrami,Robbery,0.0
+5/2020,Bottineau,Aggravated Assault,1.0
+5/2020,Bottineau,Arson,0.0
+5/2020,Bottineau,Auto Theft,2.0
+5/2020,Bottineau,Burglary,2.0
+5/2020,Bottineau,Homicide,0.0
+5/2020,Bottineau,Larceny,1.0
+5/2020,Bottineau,Rape,0.0
+5/2020,Bottineau,Robbery,1.0
+5/2020,Bryant,Aggravated Assault,0.0
+5/2020,Bryant,Arson,0.0
+5/2020,Bryant,Auto Theft,1.0
+5/2020,Bryant,Burglary,1.0
+5/2020,Bryant,Homicide,0.0
+5/2020,Bryant,Larceny,2.0
+5/2020,Bryant,Rape,0.0
+5/2020,Bryant,Robbery,1.0
+5/2020,Bryn - Mawr,Aggravated Assault,0.0
+5/2020,Bryn - Mawr,Arson,0.0
+5/2020,Bryn - Mawr,Auto Theft,1.0
+5/2020,Bryn - Mawr,Burglary,3.0
+5/2020,Bryn - Mawr,Homicide,0.0
+5/2020,Bryn - Mawr,Larceny,1.0
+5/2020,Bryn - Mawr,Rape,0.0
+5/2020,Bryn - Mawr,Robbery,0.0
+5/2020,South Uptown,Aggravated Assault,2.0
+5/2020,South Uptown,Arson,0.0
+5/2020,South Uptown,Auto Theft,4.0
+5/2020,South Uptown,Burglary,10.0
+5/2020,South Uptown,Homicide,0.0
+5/2020,South Uptown,Larceny,8.0
+5/2020,South Uptown,Rape,1.0
+5/2020,South Uptown,Robbery,0.0
+5/2020,Camden Industrial,Aggravated Assault,1.0
+5/2020,Camden Industrial,Arson,0.0
+5/2020,Camden Industrial,Auto Theft,0.0
+5/2020,Camden Industrial,Burglary,1.0
+5/2020,Camden Industrial,Homicide,0.0
+5/2020,Camden Industrial,Larceny,0.0
+5/2020,Camden Industrial,Rape,0.0
+5/2020,Camden Industrial,Robbery,0.0
+5/2020,Cedar - Isles - Dean,Aggravated Assault,1.0
+5/2020,Cedar - Isles - Dean,Arson,0.0
+5/2020,Cedar - Isles - Dean,Auto Theft,3.0
+5/2020,Cedar - Isles - Dean,Burglary,5.0
+5/2020,Cedar - Isles - Dean,Homicide,0.0
+5/2020,Cedar - Isles - Dean,Larceny,12.0
+5/2020,Cedar - Isles - Dean,Rape,0.0
+5/2020,Cedar - Isles - Dean,Robbery,0.0
+5/2020,Cedar Riverside,Aggravated Assault,1.0
+5/2020,Cedar Riverside,Arson,1.0
+5/2020,Cedar Riverside,Auto Theft,0.0
+5/2020,Cedar Riverside,Burglary,9.0
+5/2020,Cedar Riverside,Homicide,0.0
+5/2020,Cedar Riverside,Larceny,10.0
+5/2020,Cedar Riverside,Rape,0.0
+5/2020,Cedar Riverside,Robbery,1.0
+5/2020,Central,Aggravated Assault,4.0
+5/2020,Central,Arson,0.0
+5/2020,Central,Auto Theft,4.0
+5/2020,Central,Burglary,17.0
+5/2020,Central,Homicide,0.0
+5/2020,Central,Larceny,16.0
+5/2020,Central,Rape,1.0
+5/2020,Central,Robbery,3.0
+5/2020,Cleveland,Aggravated Assault,4.0
+5/2020,Cleveland,Arson,0.0
+5/2020,Cleveland,Auto Theft,0.0
+5/2020,Cleveland,Burglary,1.0
+5/2020,Cleveland,Homicide,0.0
+5/2020,Cleveland,Larceny,6.0
+5/2020,Cleveland,Rape,0.0
+5/2020,Cleveland,Robbery,0.0
+5/2020,Columbia Park,Aggravated Assault,0.0
+5/2020,Columbia Park,Arson,0.0
+5/2020,Columbia Park,Auto Theft,0.0
+5/2020,Columbia Park,Burglary,1.0
+5/2020,Columbia Park,Homicide,0.0
+5/2020,Columbia Park,Larceny,2.0
+5/2020,Columbia Park,Rape,1.0
+5/2020,Columbia Park,Robbery,0.0
+5/2020,Como,Aggravated Assault,1.0
+5/2020,Como,Arson,0.0
+5/2020,Como,Auto Theft,2.0
+5/2020,Como,Burglary,2.0
+5/2020,Como,Homicide,0.0
+5/2020,Como,Larceny,15.0
+5/2020,Como,Rape,1.0
+5/2020,Como,Robbery,0.0
+5/2020,Cooper,Aggravated Assault,0.0
+5/2020,Cooper,Arson,0.0
+5/2020,Cooper,Auto Theft,4.0
+5/2020,Cooper,Burglary,5.0
+5/2020,Cooper,Homicide,0.0
+5/2020,Cooper,Larceny,10.0
+5/2020,Cooper,Rape,0.0
+5/2020,Cooper,Robbery,1.0
+5/2020,Corcoran,Aggravated Assault,1.0
+5/2020,Corcoran,Arson,0.0
+5/2020,Corcoran,Auto Theft,2.0
+5/2020,Corcoran,Burglary,8.0
+5/2020,Corcoran,Homicide,0.0
+5/2020,Corcoran,Larceny,9.0
+5/2020,Corcoran,Rape,1.0
+5/2020,Corcoran,Robbery,0.0
+5/2020,Diamond Lake,Aggravated Assault,0.0
+5/2020,Diamond Lake,Arson,0.0
+5/2020,Diamond Lake,Auto Theft,3.0
+5/2020,Diamond Lake,Burglary,5.0
+5/2020,Diamond Lake,Homicide,0.0
+5/2020,Diamond Lake,Larceny,5.0
+5/2020,Diamond Lake,Rape,0.0
+5/2020,Diamond Lake,Robbery,1.0
+5/2020,Downtown East,Aggravated Assault,1.0
+5/2020,Downtown East,Arson,0.0
+5/2020,Downtown East,Auto Theft,0.0
+5/2020,Downtown East,Burglary,7.0
+5/2020,Downtown East,Homicide,1.0
+5/2020,Downtown East,Larceny,15.0
+5/2020,Downtown East,Rape,0.0
+5/2020,Downtown East,Robbery,0.0
+5/2020,Downtown West,Aggravated Assault,7.0
+5/2020,Downtown West,Arson,0.0
+5/2020,Downtown West,Auto Theft,1.0
+5/2020,Downtown West,Burglary,10.0
+5/2020,Downtown West,Homicide,0.0
+5/2020,Downtown West,Larceny,20.0
+5/2020,Downtown West,Rape,0.0
+5/2020,Downtown West,Robbery,9.0
+5/2020,East Bde Maka Ska,Aggravated Assault,0.0
+5/2020,East Bde Maka Ska,Arson,0.0
+5/2020,East Bde Maka Ska,Auto Theft,1.0
+5/2020,East Bde Maka Ska,Burglary,5.0
+5/2020,East Bde Maka Ska,Homicide,0.0
+5/2020,East Bde Maka Ska,Larceny,3.0
+5/2020,East Bde Maka Ska,Rape,0.0
+5/2020,East Bde Maka Ska,Robbery,0.0
+5/2020,East Harriet,Aggravated Assault,0.0
+5/2020,East Harriet,Arson,0.0
+5/2020,East Harriet,Auto Theft,1.0
+5/2020,East Harriet,Burglary,2.0
+5/2020,East Harriet,Homicide,0.0
+5/2020,East Harriet,Larceny,10.0
+5/2020,East Harriet,Rape,0.0
+5/2020,East Harriet,Robbery,0.0
+5/2020,East Isles,Aggravated Assault,1.0
+5/2020,East Isles,Arson,0.0
+5/2020,East Isles,Auto Theft,1.0
+5/2020,East Isles,Burglary,9.0
+5/2020,East Isles,Homicide,0.0
+5/2020,East Isles,Larceny,9.0
+5/2020,East Isles,Rape,0.0
+5/2020,East Isles,Robbery,0.0
+5/2020,East Phillips,Aggravated Assault,11.0
+5/2020,East Phillips,Arson,0.0
+5/2020,East Phillips,Auto Theft,8.0
+5/2020,East Phillips,Burglary,16.0
+5/2020,East Phillips,Homicide,1.0
+5/2020,East Phillips,Larceny,19.0
+5/2020,East Phillips,Rape,0.0
+5/2020,East Phillips,Robbery,7.0
+5/2020,Elliot Park,Aggravated Assault,4.0
+5/2020,Elliot Park,Arson,0.0
+5/2020,Elliot Park,Auto Theft,3.0
+5/2020,Elliot Park,Burglary,4.0
+5/2020,Elliot Park,Homicide,0.0
+5/2020,Elliot Park,Larceny,17.0
+5/2020,Elliot Park,Rape,0.0
+5/2020,Elliot Park,Robbery,1.0
+5/2020,Ericsson,Aggravated Assault,0.0
+5/2020,Ericsson,Arson,0.0
+5/2020,Ericsson,Auto Theft,2.0
+5/2020,Ericsson,Burglary,3.0
+5/2020,Ericsson,Homicide,0.0
+5/2020,Ericsson,Larceny,5.0
+5/2020,Ericsson,Rape,0.0
+5/2020,Ericsson,Robbery,0.0
+5/2020,Field,Aggravated Assault,1.0
+5/2020,Field,Arson,0.0
+5/2020,Field,Auto Theft,1.0
+5/2020,Field,Burglary,1.0
+5/2020,Field,Homicide,0.0
+5/2020,Field,Larceny,4.0
+5/2020,Field,Rape,0.0
+5/2020,Field,Robbery,0.0
+5/2020,Folwell,Aggravated Assault,10.0
+5/2020,Folwell,Arson,0.0
+5/2020,Folwell,Auto Theft,0.0
+5/2020,Folwell,Burglary,3.0
+5/2020,Folwell,Homicide,0.0
+5/2020,Folwell,Larceny,1.0
+5/2020,Folwell,Rape,1.0
+5/2020,Folwell,Robbery,3.0
+5/2020,Fulton,Aggravated Assault,0.0
+5/2020,Fulton,Arson,0.0
+5/2020,Fulton,Auto Theft,0.0
+5/2020,Fulton,Burglary,2.0
+5/2020,Fulton,Homicide,0.0
+5/2020,Fulton,Larceny,2.0
+5/2020,Fulton,Rape,0.0
+5/2020,Fulton,Robbery,1.0
+5/2020,Hale,Aggravated Assault,0.0
+5/2020,Hale,Arson,0.0
+5/2020,Hale,Auto Theft,1.0
+5/2020,Hale,Burglary,1.0
+5/2020,Hale,Homicide,0.0
+5/2020,Hale,Larceny,5.0
+5/2020,Hale,Rape,0.0
+5/2020,Hale,Robbery,0.0
+5/2020,Harrison,Aggravated Assault,2.0
+5/2020,Harrison,Arson,0.0
+5/2020,Harrison,Auto Theft,2.0
+5/2020,Harrison,Burglary,2.0
+5/2020,Harrison,Homicide,0.0
+5/2020,Harrison,Larceny,1.0
+5/2020,Harrison,Rape,0.0
+5/2020,Harrison,Robbery,0.0
+5/2020,Hawthorne,Aggravated Assault,10.0
+5/2020,Hawthorne,Arson,0.0
+5/2020,Hawthorne,Auto Theft,8.0
+5/2020,Hawthorne,Burglary,9.0
+5/2020,Hawthorne,Homicide,1.0
+5/2020,Hawthorne,Larceny,18.0
+5/2020,Hawthorne,Rape,2.0
+5/2020,Hawthorne,Robbery,5.0
+5/2020,Hiawatha,Aggravated Assault,0.0
+5/2020,Hiawatha,Arson,0.0
+5/2020,Hiawatha,Auto Theft,3.0
+5/2020,Hiawatha,Burglary,4.0
+5/2020,Hiawatha,Homicide,0.0
+5/2020,Hiawatha,Larceny,18.0
+5/2020,Hiawatha,Rape,1.0
+5/2020,Hiawatha,Robbery,1.0
+5/2020,Holland,Aggravated Assault,2.0
+5/2020,Holland,Arson,0.0
+5/2020,Holland,Auto Theft,2.0
+5/2020,Holland,Burglary,2.0
+5/2020,Holland,Homicide,0.0
+5/2020,Holland,Larceny,6.0
+5/2020,Holland,Rape,0.0
+5/2020,Holland,Robbery,2.0
+5/2020,Howe,Aggravated Assault,2.0
+5/2020,Howe,Arson,0.0
+5/2020,Howe,Auto Theft,2.0
+5/2020,Howe,Burglary,4.0
+5/2020,Howe,Homicide,0.0
+5/2020,Howe,Larceny,19.0
+5/2020,Howe,Rape,0.0
+5/2020,Howe,Robbery,0.0
+5/2020,Humboldt Industrial Area,Aggravated Assault,0.0
+5/2020,Humboldt Industrial Area,Arson,0.0
+5/2020,Humboldt Industrial Area,Auto Theft,0.0
+5/2020,Humboldt Industrial Area,Burglary,0.0
+5/2020,Humboldt Industrial Area,Homicide,0.0
+5/2020,Humboldt Industrial Area,Larceny,0.0
+5/2020,Humboldt Industrial Area,Rape,0.0
+5/2020,Humboldt Industrial Area,Robbery,0.0
+5/2020,Jordan,Aggravated Assault,17.0
+5/2020,Jordan,Arson,1.0
+5/2020,Jordan,Auto Theft,5.0
+5/2020,Jordan,Burglary,4.0
+5/2020,Jordan,Homicide,1.0
+5/2020,Jordan,Larceny,10.0
+5/2020,Jordan,Rape,2.0
+5/2020,Jordan,Robbery,1.0
+5/2020,Keewaydin,Aggravated Assault,0.0
+5/2020,Keewaydin,Arson,0.0
+5/2020,Keewaydin,Auto Theft,0.0
+5/2020,Keewaydin,Burglary,2.0
+5/2020,Keewaydin,Homicide,0.0
+5/2020,Keewaydin,Larceny,2.0
+5/2020,Keewaydin,Rape,0.0
+5/2020,Keewaydin,Robbery,0.0
+5/2020,Kenny,Aggravated Assault,0.0
+5/2020,Kenny,Arson,0.0
+5/2020,Kenny,Auto Theft,0.0
+5/2020,Kenny,Burglary,0.0
+5/2020,Kenny,Homicide,0.0
+5/2020,Kenny,Larceny,1.0
+5/2020,Kenny,Rape,0.0
+5/2020,Kenny,Robbery,0.0
+5/2020,Kenwood,Aggravated Assault,0.0
+5/2020,Kenwood,Arson,0.0
+5/2020,Kenwood,Auto Theft,0.0
+5/2020,Kenwood,Burglary,1.0
+5/2020,Kenwood,Homicide,0.0
+5/2020,Kenwood,Larceny,4.0
+5/2020,Kenwood,Rape,0.0
+5/2020,Kenwood,Robbery,0.0
+5/2020,King Field,Aggravated Assault,2.0
+5/2020,King Field,Arson,0.0
+5/2020,King Field,Auto Theft,3.0
+5/2020,King Field,Burglary,6.0
+5/2020,King Field,Homicide,0.0
+5/2020,King Field,Larceny,11.0
+5/2020,King Field,Rape,0.0
+5/2020,King Field,Robbery,0.0
+5/2020,Lind - Bohanon,Aggravated Assault,3.0
+5/2020,Lind - Bohanon,Arson,0.0
+5/2020,Lind - Bohanon,Auto Theft,7.0
+5/2020,Lind - Bohanon,Burglary,3.0
+5/2020,Lind - Bohanon,Homicide,0.0
+5/2020,Lind - Bohanon,Larceny,7.0
+5/2020,Lind - Bohanon,Rape,0.0
+5/2020,Lind - Bohanon,Robbery,1.0
+5/2020,Linden Hills,Aggravated Assault,1.0
+5/2020,Linden Hills,Arson,0.0
+5/2020,Linden Hills,Auto Theft,2.0
+5/2020,Linden Hills,Burglary,5.0
+5/2020,Linden Hills,Homicide,0.0
+5/2020,Linden Hills,Larceny,6.0
+5/2020,Linden Hills,Rape,0.0
+5/2020,Linden Hills,Robbery,0.0
+5/2020,Logan Park,Aggravated Assault,0.0
+5/2020,Logan Park,Arson,0.0
+5/2020,Logan Park,Auto Theft,1.0
+5/2020,Logan Park,Burglary,2.0
+5/2020,Logan Park,Homicide,0.0
+5/2020,Logan Park,Larceny,4.0
+5/2020,Logan Park,Rape,0.0
+5/2020,Logan Park,Robbery,0.0
+5/2020,Longfellow,Aggravated Assault,9.0
+5/2020,Longfellow,Arson,0.0
+5/2020,Longfellow,Auto Theft,12.0
+5/2020,Longfellow,Burglary,21.0
+5/2020,Longfellow,Homicide,0.0
+5/2020,Longfellow,Larceny,36.0
+5/2020,Longfellow,Rape,0.0
+5/2020,Longfellow,Robbery,0.0
+5/2020,Loring Park,Aggravated Assault,4.0
+5/2020,Loring Park,Arson,0.0
+5/2020,Loring Park,Auto Theft,2.0
+5/2020,Loring Park,Burglary,10.0
+5/2020,Loring Park,Homicide,0.0
+5/2020,Loring Park,Larceny,25.0
+5/2020,Loring Park,Rape,1.0
+5/2020,Loring Park,Robbery,3.0
+5/2020,Lowry Hill,Aggravated Assault,1.0
+5/2020,Lowry Hill,Arson,0.0
+5/2020,Lowry Hill,Auto Theft,0.0
+5/2020,Lowry Hill,Burglary,2.0
+5/2020,Lowry Hill,Homicide,0.0
+5/2020,Lowry Hill,Larceny,9.0
+5/2020,Lowry Hill,Rape,0.0
+5/2020,Lowry Hill,Robbery,0.0
+5/2020,Lowry Hill East,Aggravated Assault,2.0
+5/2020,Lowry Hill East,Arson,0.0
+5/2020,Lowry Hill East,Auto Theft,6.0
+5/2020,Lowry Hill East,Burglary,30.0
+5/2020,Lowry Hill East,Homicide,0.0
+5/2020,Lowry Hill East,Larceny,25.0
+5/2020,Lowry Hill East,Rape,0.0
+5/2020,Lowry Hill East,Robbery,3.0
+5/2020,Lyndale,Aggravated Assault,4.0
+5/2020,Lyndale,Arson,0.0
+5/2020,Lyndale,Auto Theft,3.0
+5/2020,Lyndale,Burglary,17.0
+5/2020,Lyndale,Homicide,0.0
+5/2020,Lyndale,Larceny,17.0
+5/2020,Lyndale,Rape,2.0
+5/2020,Lyndale,Robbery,0.0
+5/2020,Lynnhurst,Aggravated Assault,0.0
+5/2020,Lynnhurst,Arson,0.0
+5/2020,Lynnhurst,Auto Theft,1.0
+5/2020,Lynnhurst,Burglary,2.0
+5/2020,Lynnhurst,Homicide,0.0
+5/2020,Lynnhurst,Larceny,4.0
+5/2020,Lynnhurst,Rape,0.0
+5/2020,Lynnhurst,Robbery,0.0
+5/2020,Marcy Holmes,Aggravated Assault,6.0
+5/2020,Marcy Holmes,Arson,0.0
+5/2020,Marcy Holmes,Auto Theft,17.0
+5/2020,Marcy Holmes,Burglary,11.0
+5/2020,Marcy Holmes,Homicide,0.0
+5/2020,Marcy Holmes,Larceny,47.0
+5/2020,Marcy Holmes,Rape,0.0
+5/2020,Marcy Holmes,Robbery,2.0
+5/2020,Marshall Terrace,Aggravated Assault,0.0
+5/2020,Marshall Terrace,Arson,0.0
+5/2020,Marshall Terrace,Auto Theft,0.0
+5/2020,Marshall Terrace,Burglary,0.0
+5/2020,Marshall Terrace,Homicide,0.0
+5/2020,Marshall Terrace,Larceny,2.0
+5/2020,Marshall Terrace,Rape,0.0
+5/2020,Marshall Terrace,Robbery,0.0
+5/2020,McKinley,Aggravated Assault,11.0
+5/2020,McKinley,Arson,0.0
+5/2020,McKinley,Auto Theft,2.0
+5/2020,McKinley,Burglary,8.0
+5/2020,McKinley,Homicide,0.0
+5/2020,McKinley,Larceny,4.0
+5/2020,McKinley,Rape,0.0
+5/2020,McKinley,Robbery,2.0
+5/2020,Mid - City Industrial,Aggravated Assault,0.0
+5/2020,Mid - City Industrial,Arson,0.0
+5/2020,Mid - City Industrial,Auto Theft,0.0
+5/2020,Mid - City Industrial,Burglary,1.0
+5/2020,Mid - City Industrial,Homicide,0.0
+5/2020,Mid - City Industrial,Larceny,2.0
+5/2020,Mid - City Industrial,Rape,0.0
+5/2020,Mid - City Industrial,Robbery,0.0
+5/2020,Midtown Phillips,Aggravated Assault,5.0
+5/2020,Midtown Phillips,Arson,0.0
+5/2020,Midtown Phillips,Auto Theft,6.0
+5/2020,Midtown Phillips,Burglary,8.0
+5/2020,Midtown Phillips,Homicide,1.0
+5/2020,Midtown Phillips,Larceny,11.0
+5/2020,Midtown Phillips,Rape,0.0
+5/2020,Midtown Phillips,Robbery,4.0
+5/2020,Minnehaha,Aggravated Assault,1.0
+5/2020,Minnehaha,Arson,0.0
+5/2020,Minnehaha,Auto Theft,1.0
+5/2020,Minnehaha,Burglary,1.0
+5/2020,Minnehaha,Homicide,0.0
+5/2020,Minnehaha,Larceny,9.0
+5/2020,Minnehaha,Rape,0.0
+5/2020,Minnehaha,Robbery,0.0
+5/2020,Morris Park,Aggravated Assault,0.0
+5/2020,Morris Park,Arson,0.0
+5/2020,Morris Park,Auto Theft,1.0
+5/2020,Morris Park,Burglary,1.0
+5/2020,Morris Park,Homicide,0.0
+5/2020,Morris Park,Larceny,0.0
+5/2020,Morris Park,Rape,0.0
+5/2020,Morris Park,Robbery,0.0
+5/2020,Near - North,Aggravated Assault,12.0
+5/2020,Near - North,Arson,0.0
+5/2020,Near - North,Auto Theft,4.0
+5/2020,Near - North,Burglary,5.0
+5/2020,Near - North,Homicide,0.0
+5/2020,Near - North,Larceny,18.0
+5/2020,Near - North,Rape,3.0
+5/2020,Near - North,Robbery,4.0
+5/2020,Nicollet Island - East Bank,Aggravated Assault,0.0
+5/2020,Nicollet Island - East Bank,Arson,0.0
+5/2020,Nicollet Island - East Bank,Auto Theft,1.0
+5/2020,Nicollet Island - East Bank,Burglary,1.0
+5/2020,Nicollet Island - East Bank,Homicide,0.0
+5/2020,Nicollet Island - East Bank,Larceny,3.0
+5/2020,Nicollet Island - East Bank,Rape,0.0
+5/2020,Nicollet Island - East Bank,Robbery,0.0
+5/2020,North Loop,Aggravated Assault,0.0
+5/2020,North Loop,Arson,0.0
+5/2020,North Loop,Auto Theft,2.0
+5/2020,North Loop,Burglary,13.0
+5/2020,North Loop,Homicide,0.0
+5/2020,North Loop,Larceny,21.0
+5/2020,North Loop,Rape,0.0
+5/2020,North Loop,Robbery,1.0
+5/2020,Northeast Park,Aggravated Assault,0.0
+5/2020,Northeast Park,Arson,0.0
+5/2020,Northeast Park,Auto Theft,0.0
+5/2020,Northeast Park,Burglary,4.0
+5/2020,Northeast Park,Homicide,0.0
+5/2020,Northeast Park,Larceny,17.0
+5/2020,Northeast Park,Rape,0.0
+5/2020,Northeast Park,Robbery,1.0
+5/2020,Northrop,Aggravated Assault,2.0
+5/2020,Northrop,Arson,0.0
+5/2020,Northrop,Auto Theft,4.0
+5/2020,Northrop,Burglary,6.0
+5/2020,Northrop,Homicide,0.0
+5/2020,Northrop,Larceny,7.0
+5/2020,Northrop,Rape,1.0
+5/2020,Northrop,Robbery,0.0
+5/2020,Page,Aggravated Assault,0.0
+5/2020,Page,Arson,0.0
+5/2020,Page,Auto Theft,0.0
+5/2020,Page,Burglary,0.0
+5/2020,Page,Homicide,0.0
+5/2020,Page,Larceny,0.0
+5/2020,Page,Rape,0.0
+5/2020,Page,Robbery,0.0
+5/2020,Phillips West,Aggravated Assault,3.0
+5/2020,Phillips West,Arson,0.0
+5/2020,Phillips West,Auto Theft,4.0
+5/2020,Phillips West,Burglary,12.0
+5/2020,Phillips West,Homicide,0.0
+5/2020,Phillips West,Larceny,9.0
+5/2020,Phillips West,Rape,0.0
+5/2020,Phillips West,Robbery,1.0
+5/2020,Powderhorn Park,Aggravated Assault,4.0
+5/2020,Powderhorn Park,Arson,2.0
+5/2020,Powderhorn Park,Auto Theft,7.0
+5/2020,Powderhorn Park,Burglary,13.0
+5/2020,Powderhorn Park,Homicide,0.0
+5/2020,Powderhorn Park,Larceny,14.0
+5/2020,Powderhorn Park,Rape,0.0
+5/2020,Powderhorn Park,Robbery,2.0
+5/2020,Prospect Park - East River Road,Aggravated Assault,1.0
+5/2020,Prospect Park - East River Road,Arson,0.0
+5/2020,Prospect Park - East River Road,Auto Theft,6.0
+5/2020,Prospect Park - East River Road,Burglary,9.0
+5/2020,Prospect Park - East River Road,Homicide,0.0
+5/2020,Prospect Park - East River Road,Larceny,30.0
+5/2020,Prospect Park - East River Road,Rape,0.0
+5/2020,Prospect Park - East River Road,Robbery,0.0
+5/2020,Regina,Aggravated Assault,0.0
+5/2020,Regina,Arson,0.0
+5/2020,Regina,Auto Theft,2.0
+5/2020,Regina,Burglary,2.0
+5/2020,Regina,Homicide,0.0
+5/2020,Regina,Larceny,4.0
+5/2020,Regina,Rape,0.0
+5/2020,Regina,Robbery,0.0
+5/2020,Seward,Aggravated Assault,2.0
+5/2020,Seward,Arson,0.0
+5/2020,Seward,Auto Theft,7.0
+5/2020,Seward,Burglary,13.0
+5/2020,Seward,Homicide,0.0
+5/2020,Seward,Larceny,18.0
+5/2020,Seward,Rape,1.0
+5/2020,Seward,Robbery,1.0
+5/2020,Sheridan,Aggravated Assault,1.0
+5/2020,Sheridan,Arson,0.0
+5/2020,Sheridan,Auto Theft,1.0
+5/2020,Sheridan,Burglary,2.0
+5/2020,Sheridan,Homicide,0.0
+5/2020,Sheridan,Larceny,5.0
+5/2020,Sheridan,Rape,0.0
+5/2020,Sheridan,Robbery,0.0
+5/2020,Shingle Creek,Aggravated Assault,1.0
+5/2020,Shingle Creek,Arson,0.0
+5/2020,Shingle Creek,Auto Theft,1.0
+5/2020,Shingle Creek,Burglary,1.0
+5/2020,Shingle Creek,Homicide,0.0
+5/2020,Shingle Creek,Larceny,2.0
+5/2020,Shingle Creek,Rape,0.0
+5/2020,Shingle Creek,Robbery,2.0
+5/2020,St. Anthony East,Aggravated Assault,0.0
+5/2020,St. Anthony East,Arson,0.0
+5/2020,St. Anthony East,Auto Theft,1.0
+5/2020,St. Anthony East,Burglary,0.0
+5/2020,St. Anthony East,Homicide,0.0
+5/2020,St. Anthony East,Larceny,4.0
+5/2020,St. Anthony East,Rape,0.0
+5/2020,St. Anthony East,Robbery,0.0
+5/2020,St. Anthony West,Aggravated Assault,0.0
+5/2020,St. Anthony West,Arson,1.0
+5/2020,St. Anthony West,Auto Theft,2.0
+5/2020,St. Anthony West,Burglary,2.0
+5/2020,St. Anthony West,Homicide,0.0
+5/2020,St. Anthony West,Larceny,6.0
+5/2020,St. Anthony West,Rape,0.0
+5/2020,St. Anthony West,Robbery,0.0
+5/2020,Standish,Aggravated Assault,0.0
+5/2020,Standish,Arson,0.0
+5/2020,Standish,Auto Theft,5.0
+5/2020,Standish,Burglary,9.0
+5/2020,Standish,Homicide,1.0
+5/2020,Standish,Larceny,10.0
+5/2020,Standish,Rape,0.0
+5/2020,Standish,Robbery,1.0
+5/2020,Steven's Square - Loring Heights,Aggravated Assault,2.0
+5/2020,Steven's Square - Loring Heights,Arson,0.0
+5/2020,Steven's Square - Loring Heights,Auto Theft,2.0
+5/2020,Steven's Square - Loring Heights,Burglary,7.0
+5/2020,Steven's Square - Loring Heights,Homicide,0.0
+5/2020,Steven's Square - Loring Heights,Larceny,11.0
+5/2020,Steven's Square - Loring Heights,Rape,0.0
+5/2020,Steven's Square - Loring Heights,Robbery,1.0
+5/2020,Sumner - Glenwood,Aggravated Assault,0.0
+5/2020,Sumner - Glenwood,Arson,0.0
+5/2020,Sumner - Glenwood,Auto Theft,3.0
+5/2020,Sumner - Glenwood,Burglary,0.0
+5/2020,Sumner - Glenwood,Homicide,0.0
+5/2020,Sumner - Glenwood,Larceny,3.0
+5/2020,Sumner - Glenwood,Rape,0.0
+5/2020,Sumner - Glenwood,Robbery,0.0
+5/2020,Tangletown,Aggravated Assault,1.0
+5/2020,Tangletown,Arson,0.0
+5/2020,Tangletown,Auto Theft,1.0
+5/2020,Tangletown,Burglary,4.0
+5/2020,Tangletown,Homicide,0.0
+5/2020,Tangletown,Larceny,0.0
+5/2020,Tangletown,Rape,0.0
+5/2020,Tangletown,Robbery,0.0
+5/2020,University of Minnesota,Aggravated Assault,0.0
+5/2020,University of Minnesota,Arson,0.0
+5/2020,University of Minnesota,Auto Theft,1.0
+5/2020,University of Minnesota,Burglary,3.0
+5/2020,University of Minnesota,Homicide,0.0
+5/2020,University of Minnesota,Larceny,4.0
+5/2020,University of Minnesota,Rape,0.0
+5/2020,University of Minnesota,Robbery,0.0
+5/2020,Ventura Village,Aggravated Assault,7.0
+5/2020,Ventura Village,Arson,1.0
+5/2020,Ventura Village,Auto Theft,7.0
+5/2020,Ventura Village,Burglary,4.0
+5/2020,Ventura Village,Homicide,0.0
+5/2020,Ventura Village,Larceny,21.0
+5/2020,Ventura Village,Rape,1.0
+5/2020,Ventura Village,Robbery,9.0
+5/2020,Victory,Aggravated Assault,1.0
+5/2020,Victory,Arson,0.0
+5/2020,Victory,Auto Theft,2.0
+5/2020,Victory,Burglary,6.0
+5/2020,Victory,Homicide,0.0
+5/2020,Victory,Larceny,7.0
+5/2020,Victory,Rape,0.0
+5/2020,Victory,Robbery,0.0
+5/2020,Waite Park,Aggravated Assault,0.0
+5/2020,Waite Park,Arson,0.0
+5/2020,Waite Park,Auto Theft,3.0
+5/2020,Waite Park,Burglary,3.0
+5/2020,Waite Park,Homicide,0.0
+5/2020,Waite Park,Larceny,9.0
+5/2020,Waite Park,Rape,0.0
+5/2020,Waite Park,Robbery,1.0
+5/2020,Webber - Camden,Aggravated Assault,3.0
+5/2020,Webber - Camden,Arson,0.0
+5/2020,Webber - Camden,Auto Theft,5.0
+5/2020,Webber - Camden,Burglary,4.0
+5/2020,Webber - Camden,Homicide,0.0
+5/2020,Webber - Camden,Larceny,5.0
+5/2020,Webber - Camden,Rape,2.0
+5/2020,Webber - Camden,Robbery,1.0
+5/2020,Wenonah,Aggravated Assault,2.0
+5/2020,Wenonah,Arson,0.0
+5/2020,Wenonah,Auto Theft,4.0
+5/2020,Wenonah,Burglary,2.0
+5/2020,Wenonah,Homicide,0.0
+5/2020,Wenonah,Larceny,0.0
+5/2020,Wenonah,Rape,0.0
+5/2020,Wenonah,Robbery,0.0
+5/2020,West Maka Ska,Aggravated Assault,0.0
+5/2020,West Maka Ska,Arson,0.0
+5/2020,West Maka Ska,Auto Theft,1.0
+5/2020,West Maka Ska,Burglary,8.0
+5/2020,West Maka Ska,Homicide,0.0
+5/2020,West Maka Ska,Larceny,10.0
+5/2020,West Maka Ska,Rape,0.0
+5/2020,West Maka Ska,Robbery,0.0
+5/2020,Whittier,Aggravated Assault,10.0
+5/2020,Whittier,Arson,0.0
+5/2020,Whittier,Auto Theft,8.0
+5/2020,Whittier,Burglary,30.0
+5/2020,Whittier,Homicide,0.0
+5/2020,Whittier,Larceny,38.0
+5/2020,Whittier,Rape,0.0
+5/2020,Whittier,Robbery,4.0
+5/2020,Willard - Hay,Aggravated Assault,3.0
+5/2020,Willard - Hay,Arson,0.0
+5/2020,Willard - Hay,Auto Theft,7.0
+5/2020,Willard - Hay,Burglary,4.0
+5/2020,Willard - Hay,Homicide,0.0
+5/2020,Willard - Hay,Larceny,7.0
+5/2020,Willard - Hay,Rape,2.0
+5/2020,Willard - Hay,Robbery,2.0
+5/2020,Windom,Aggravated Assault,0.0
+5/2020,Windom,Arson,0.0
+5/2020,Windom,Auto Theft,5.0
+5/2020,Windom,Burglary,3.0
+5/2020,Windom,Homicide,0.0
+5/2020,Windom,Larceny,8.0
+5/2020,Windom,Rape,0.0
+5/2020,Windom,Robbery,0.0
+5/2020,Windom Park,Aggravated Assault,0.0
+5/2020,Windom Park,Arson,0.0
+5/2020,Windom Park,Auto Theft,2.0
+5/2020,Windom Park,Burglary,6.0
+5/2020,Windom Park,Homicide,0.0
+5/2020,Windom Park,Larceny,3.0
+5/2020,Windom Park,Rape,0.0
+5/2020,Windom Park,Robbery,0.0
+6/2020,Armatage,Aggravated Assault,1.0
+6/2020,Armatage,Arson,0.0
+6/2020,Armatage,Auto Theft,2.0
+6/2020,Armatage,Burglary,1.0
+6/2020,Armatage,Homicide,0.0
+6/2020,Armatage,Larceny,1.0
+6/2020,Armatage,Rape,0.0
+6/2020,Armatage,Robbery,0.0
+6/2020,Audubon Park,Aggravated Assault,1.0
+6/2020,Audubon Park,Arson,0.0
+6/2020,Audubon Park,Auto Theft,2.0
+6/2020,Audubon Park,Burglary,2.0
+6/2020,Audubon Park,Homicide,0.0
+6/2020,Audubon Park,Larceny,4.0
+6/2020,Audubon Park,Rape,0.0
+6/2020,Audubon Park,Robbery,2.0
+6/2020,Bancroft,Aggravated Assault,3.0
+6/2020,Bancroft,Arson,0.0
+6/2020,Bancroft,Auto Theft,3.0
+6/2020,Bancroft,Burglary,5.0
+6/2020,Bancroft,Homicide,0.0
+6/2020,Bancroft,Larceny,4.0
+6/2020,Bancroft,Rape,0.0
+6/2020,Bancroft,Robbery,4.0
+6/2020,Beltrami,Aggravated Assault,1.0
+6/2020,Beltrami,Arson,0.0
+6/2020,Beltrami,Auto Theft,1.0
+6/2020,Beltrami,Burglary,1.0
+6/2020,Beltrami,Homicide,0.0
+6/2020,Beltrami,Larceny,2.0
+6/2020,Beltrami,Rape,0.0
+6/2020,Beltrami,Robbery,0.0
+6/2020,Bottineau,Aggravated Assault,3.0
+6/2020,Bottineau,Arson,0.0
+6/2020,Bottineau,Auto Theft,1.0
+6/2020,Bottineau,Burglary,0.0
+6/2020,Bottineau,Homicide,0.0
+6/2020,Bottineau,Larceny,5.0
+6/2020,Bottineau,Rape,0.0
+6/2020,Bottineau,Robbery,1.0
+6/2020,Bryant,Aggravated Assault,0.0
+6/2020,Bryant,Arson,0.0
+6/2020,Bryant,Auto Theft,1.0
+6/2020,Bryant,Burglary,1.0
+6/2020,Bryant,Homicide,0.0
+6/2020,Bryant,Larceny,5.0
+6/2020,Bryant,Rape,0.0
+6/2020,Bryant,Robbery,2.0
+6/2020,Bryn - Mawr,Aggravated Assault,0.0
+6/2020,Bryn - Mawr,Arson,0.0
+6/2020,Bryn - Mawr,Auto Theft,0.0
+6/2020,Bryn - Mawr,Burglary,3.0
+6/2020,Bryn - Mawr,Homicide,0.0
+6/2020,Bryn - Mawr,Larceny,3.0
+6/2020,Bryn - Mawr,Rape,0.0
+6/2020,Bryn - Mawr,Robbery,0.0
+6/2020,South Uptown,Aggravated Assault,0.0
+6/2020,South Uptown,Arson,0.0
+6/2020,South Uptown,Auto Theft,2.0
+6/2020,South Uptown,Burglary,18.0
+6/2020,South Uptown,Homicide,0.0
+6/2020,South Uptown,Larceny,11.0
+6/2020,South Uptown,Rape,0.0
+6/2020,South Uptown,Robbery,1.0
+6/2020,Camden Industrial,Aggravated Assault,0.0
+6/2020,Camden Industrial,Arson,0.0
+6/2020,Camden Industrial,Auto Theft,0.0
+6/2020,Camden Industrial,Burglary,0.0
+6/2020,Camden Industrial,Homicide,0.0
+6/2020,Camden Industrial,Larceny,3.0
+6/2020,Camden Industrial,Rape,0.0
+6/2020,Camden Industrial,Robbery,1.0
+6/2020,Cedar - Isles - Dean,Aggravated Assault,1.0
+6/2020,Cedar - Isles - Dean,Arson,0.0
+6/2020,Cedar - Isles - Dean,Auto Theft,0.0
+6/2020,Cedar - Isles - Dean,Burglary,5.0
+6/2020,Cedar - Isles - Dean,Homicide,0.0
+6/2020,Cedar - Isles - Dean,Larceny,8.0
+6/2020,Cedar - Isles - Dean,Rape,0.0
+6/2020,Cedar - Isles - Dean,Robbery,1.0
+6/2020,Cedar Riverside,Aggravated Assault,0.0
+6/2020,Cedar Riverside,Arson,1.0
+6/2020,Cedar Riverside,Auto Theft,7.0
+6/2020,Cedar Riverside,Burglary,7.0
+6/2020,Cedar Riverside,Homicide,0.0
+6/2020,Cedar Riverside,Larceny,16.0
+6/2020,Cedar Riverside,Rape,0.0
+6/2020,Cedar Riverside,Robbery,2.0
+6/2020,Central,Aggravated Assault,5.0
+6/2020,Central,Arson,1.0
+6/2020,Central,Auto Theft,11.0
+6/2020,Central,Burglary,24.0
+6/2020,Central,Homicide,0.0
+6/2020,Central,Larceny,11.0
+6/2020,Central,Rape,0.0
+6/2020,Central,Robbery,4.0
+6/2020,Cleveland,Aggravated Assault,1.0
+6/2020,Cleveland,Arson,0.0
+6/2020,Cleveland,Auto Theft,2.0
+6/2020,Cleveland,Burglary,5.0
+6/2020,Cleveland,Homicide,0.0
+6/2020,Cleveland,Larceny,2.0
+6/2020,Cleveland,Rape,0.0
+6/2020,Cleveland,Robbery,0.0
+6/2020,Columbia Park,Aggravated Assault,0.0
+6/2020,Columbia Park,Arson,0.0
+6/2020,Columbia Park,Auto Theft,0.0
+6/2020,Columbia Park,Burglary,0.0
+6/2020,Columbia Park,Homicide,0.0
+6/2020,Columbia Park,Larceny,1.0
+6/2020,Columbia Park,Rape,1.0
+6/2020,Columbia Park,Robbery,1.0
+6/2020,Como,Aggravated Assault,1.0
+6/2020,Como,Arson,0.0
+6/2020,Como,Auto Theft,2.0
+6/2020,Como,Burglary,2.0
+6/2020,Como,Homicide,0.0
+6/2020,Como,Larceny,16.0
+6/2020,Como,Rape,0.0
+6/2020,Como,Robbery,1.0
+6/2020,Cooper,Aggravated Assault,0.0
+6/2020,Cooper,Arson,0.0
+6/2020,Cooper,Auto Theft,1.0
+6/2020,Cooper,Burglary,3.0
+6/2020,Cooper,Homicide,0.0
+6/2020,Cooper,Larceny,2.0
+6/2020,Cooper,Rape,0.0
+6/2020,Cooper,Robbery,0.0
+6/2020,Corcoran,Aggravated Assault,2.0
+6/2020,Corcoran,Arson,0.0
+6/2020,Corcoran,Auto Theft,4.0
+6/2020,Corcoran,Burglary,7.0
+6/2020,Corcoran,Homicide,0.0
+6/2020,Corcoran,Larceny,3.0
+6/2020,Corcoran,Rape,1.0
+6/2020,Corcoran,Robbery,0.0
+6/2020,Diamond Lake,Aggravated Assault,0.0
+6/2020,Diamond Lake,Arson,0.0
+6/2020,Diamond Lake,Auto Theft,1.0
+6/2020,Diamond Lake,Burglary,5.0
+6/2020,Diamond Lake,Homicide,0.0
+6/2020,Diamond Lake,Larceny,5.0
+6/2020,Diamond Lake,Rape,0.0
+6/2020,Diamond Lake,Robbery,0.0
+6/2020,Downtown East,Aggravated Assault,4.0
+6/2020,Downtown East,Arson,0.0
+6/2020,Downtown East,Auto Theft,0.0
+6/2020,Downtown East,Burglary,3.0
+6/2020,Downtown East,Homicide,0.0
+6/2020,Downtown East,Larceny,12.0
+6/2020,Downtown East,Rape,2.0
+6/2020,Downtown East,Robbery,1.0
+6/2020,Downtown West,Aggravated Assault,11.0
+6/2020,Downtown West,Arson,0.0
+6/2020,Downtown West,Auto Theft,3.0
+6/2020,Downtown West,Burglary,5.0
+6/2020,Downtown West,Homicide,2.0
+6/2020,Downtown West,Larceny,43.0
+6/2020,Downtown West,Rape,5.0
+6/2020,Downtown West,Robbery,15.0
+6/2020,East Bde Maka Ska,Aggravated Assault,0.0
+6/2020,East Bde Maka Ska,Arson,0.0
+6/2020,East Bde Maka Ska,Auto Theft,3.0
+6/2020,East Bde Maka Ska,Burglary,14.0
+6/2020,East Bde Maka Ska,Homicide,0.0
+6/2020,East Bde Maka Ska,Larceny,2.0
+6/2020,East Bde Maka Ska,Rape,0.0
+6/2020,East Bde Maka Ska,Robbery,0.0
+6/2020,East Harriet,Aggravated Assault,0.0
+6/2020,East Harriet,Arson,0.0
+6/2020,East Harriet,Auto Theft,6.0
+6/2020,East Harriet,Burglary,2.0
+6/2020,East Harriet,Homicide,0.0
+6/2020,East Harriet,Larceny,8.0
+6/2020,East Harriet,Rape,0.0
+6/2020,East Harriet,Robbery,0.0
+6/2020,East Isles,Aggravated Assault,0.0
+6/2020,East Isles,Arson,0.0
+6/2020,East Isles,Auto Theft,7.0
+6/2020,East Isles,Burglary,8.0
+6/2020,East Isles,Homicide,0.0
+6/2020,East Isles,Larceny,8.0
+6/2020,East Isles,Rape,0.0
+6/2020,East Isles,Robbery,2.0
+6/2020,East Phillips,Aggravated Assault,19.0
+6/2020,East Phillips,Arson,2.0
+6/2020,East Phillips,Auto Theft,8.0
+6/2020,East Phillips,Burglary,10.0
+6/2020,East Phillips,Homicide,0.0
+6/2020,East Phillips,Larceny,14.0
+6/2020,East Phillips,Rape,1.0
+6/2020,East Phillips,Robbery,4.0
+6/2020,Elliot Park,Aggravated Assault,6.0
+6/2020,Elliot Park,Arson,0.0
+6/2020,Elliot Park,Auto Theft,3.0
+6/2020,Elliot Park,Burglary,1.0
+6/2020,Elliot Park,Homicide,1.0
+6/2020,Elliot Park,Larceny,16.0
+6/2020,Elliot Park,Rape,0.0
+6/2020,Elliot Park,Robbery,0.0
+6/2020,Ericsson,Aggravated Assault,0.0
+6/2020,Ericsson,Arson,0.0
+6/2020,Ericsson,Auto Theft,4.0
+6/2020,Ericsson,Burglary,2.0
+6/2020,Ericsson,Homicide,0.0
+6/2020,Ericsson,Larceny,2.0
+6/2020,Ericsson,Rape,1.0
+6/2020,Ericsson,Robbery,0.0
+6/2020,Field,Aggravated Assault,1.0
+6/2020,Field,Arson,0.0
+6/2020,Field,Auto Theft,1.0
+6/2020,Field,Burglary,2.0
+6/2020,Field,Homicide,0.0
+6/2020,Field,Larceny,1.0
+6/2020,Field,Rape,0.0
+6/2020,Field,Robbery,0.0
+6/2020,Folwell,Aggravated Assault,12.0
+6/2020,Folwell,Arson,0.0
+6/2020,Folwell,Auto Theft,3.0
+6/2020,Folwell,Burglary,7.0
+6/2020,Folwell,Homicide,0.0
+6/2020,Folwell,Larceny,3.0
+6/2020,Folwell,Rape,1.0
+6/2020,Folwell,Robbery,1.0
+6/2020,Fulton,Aggravated Assault,1.0
+6/2020,Fulton,Arson,0.0
+6/2020,Fulton,Auto Theft,5.0
+6/2020,Fulton,Burglary,3.0
+6/2020,Fulton,Homicide,0.0
+6/2020,Fulton,Larceny,7.0
+6/2020,Fulton,Rape,0.0
+6/2020,Fulton,Robbery,0.0
+6/2020,Hale,Aggravated Assault,0.0
+6/2020,Hale,Arson,0.0
+6/2020,Hale,Auto Theft,1.0
+6/2020,Hale,Burglary,4.0
+6/2020,Hale,Homicide,0.0
+6/2020,Hale,Larceny,4.0
+6/2020,Hale,Rape,0.0
+6/2020,Hale,Robbery,0.0
+6/2020,Harrison,Aggravated Assault,6.0
+6/2020,Harrison,Arson,0.0
+6/2020,Harrison,Auto Theft,3.0
+6/2020,Harrison,Burglary,3.0
+6/2020,Harrison,Homicide,0.0
+6/2020,Harrison,Larceny,8.0
+6/2020,Harrison,Rape,1.0
+6/2020,Harrison,Robbery,1.0
+6/2020,Hawthorne,Aggravated Assault,25.0
+6/2020,Hawthorne,Arson,1.0
+6/2020,Hawthorne,Auto Theft,6.0
+6/2020,Hawthorne,Burglary,9.0
+6/2020,Hawthorne,Homicide,1.0
+6/2020,Hawthorne,Larceny,8.0
+6/2020,Hawthorne,Rape,3.0
+6/2020,Hawthorne,Robbery,8.0
+6/2020,Hiawatha,Aggravated Assault,2.0
+6/2020,Hiawatha,Arson,0.0
+6/2020,Hiawatha,Auto Theft,3.0
+6/2020,Hiawatha,Burglary,4.0
+6/2020,Hiawatha,Homicide,0.0
+6/2020,Hiawatha,Larceny,15.0
+6/2020,Hiawatha,Rape,0.0
+6/2020,Hiawatha,Robbery,2.0
+6/2020,Holland,Aggravated Assault,1.0
+6/2020,Holland,Arson,0.0
+6/2020,Holland,Auto Theft,3.0
+6/2020,Holland,Burglary,3.0
+6/2020,Holland,Homicide,0.0
+6/2020,Holland,Larceny,12.0
+6/2020,Holland,Rape,1.0
+6/2020,Holland,Robbery,2.0
+6/2020,Howe,Aggravated Assault,1.0
+6/2020,Howe,Arson,0.0
+6/2020,Howe,Auto Theft,6.0
+6/2020,Howe,Burglary,7.0
+6/2020,Howe,Homicide,0.0
+6/2020,Howe,Larceny,6.0
+6/2020,Howe,Rape,0.0
+6/2020,Howe,Robbery,1.0
+6/2020,Humboldt Industrial Area,Aggravated Assault,0.0
+6/2020,Humboldt Industrial Area,Arson,0.0
+6/2020,Humboldt Industrial Area,Auto Theft,0.0
+6/2020,Humboldt Industrial Area,Burglary,0.0
+6/2020,Humboldt Industrial Area,Homicide,0.0
+6/2020,Humboldt Industrial Area,Larceny,1.0
+6/2020,Humboldt Industrial Area,Rape,0.0
+6/2020,Humboldt Industrial Area,Robbery,0.0
+6/2020,Jordan,Aggravated Assault,17.0
+6/2020,Jordan,Arson,1.0
+6/2020,Jordan,Auto Theft,9.0
+6/2020,Jordan,Burglary,8.0
+6/2020,Jordan,Homicide,0.0
+6/2020,Jordan,Larceny,8.0
+6/2020,Jordan,Rape,0.0
+6/2020,Jordan,Robbery,1.0
+6/2020,Keewaydin,Aggravated Assault,1.0
+6/2020,Keewaydin,Arson,0.0
+6/2020,Keewaydin,Auto Theft,2.0
+6/2020,Keewaydin,Burglary,0.0
+6/2020,Keewaydin,Homicide,0.0
+6/2020,Keewaydin,Larceny,10.0
+6/2020,Keewaydin,Rape,0.0
+6/2020,Keewaydin,Robbery,0.0
+6/2020,Kenny,Aggravated Assault,0.0
+6/2020,Kenny,Arson,0.0
+6/2020,Kenny,Auto Theft,4.0
+6/2020,Kenny,Burglary,0.0
+6/2020,Kenny,Homicide,0.0
+6/2020,Kenny,Larceny,3.0
+6/2020,Kenny,Rape,0.0
+6/2020,Kenny,Robbery,0.0
+6/2020,Kenwood,Aggravated Assault,0.0
+6/2020,Kenwood,Arson,0.0
+6/2020,Kenwood,Auto Theft,0.0
+6/2020,Kenwood,Burglary,0.0
+6/2020,Kenwood,Homicide,0.0
+6/2020,Kenwood,Larceny,4.0
+6/2020,Kenwood,Rape,1.0
+6/2020,Kenwood,Robbery,0.0
+6/2020,King Field,Aggravated Assault,1.0
+6/2020,King Field,Arson,0.0
+6/2020,King Field,Auto Theft,3.0
+6/2020,King Field,Burglary,4.0
+6/2020,King Field,Homicide,0.0
+6/2020,King Field,Larceny,8.0
+6/2020,King Field,Rape,0.0
+6/2020,King Field,Robbery,1.0
+6/2020,Lind - Bohanon,Aggravated Assault,6.0
+6/2020,Lind - Bohanon,Arson,1.0
+6/2020,Lind - Bohanon,Auto Theft,1.0
+6/2020,Lind - Bohanon,Burglary,6.0
+6/2020,Lind - Bohanon,Homicide,0.0
+6/2020,Lind - Bohanon,Larceny,4.0
+6/2020,Lind - Bohanon,Rape,0.0
+6/2020,Lind - Bohanon,Robbery,0.0
+6/2020,Linden Hills,Aggravated Assault,0.0
+6/2020,Linden Hills,Arson,0.0
+6/2020,Linden Hills,Auto Theft,2.0
+6/2020,Linden Hills,Burglary,6.0
+6/2020,Linden Hills,Homicide,0.0
+6/2020,Linden Hills,Larceny,6.0
+6/2020,Linden Hills,Rape,0.0
+6/2020,Linden Hills,Robbery,0.0
+6/2020,Logan Park,Aggravated Assault,0.0
+6/2020,Logan Park,Arson,0.0
+6/2020,Logan Park,Auto Theft,1.0
+6/2020,Logan Park,Burglary,1.0
+6/2020,Logan Park,Homicide,0.0
+6/2020,Logan Park,Larceny,7.0
+6/2020,Logan Park,Rape,0.0
+6/2020,Logan Park,Robbery,0.0
+6/2020,Longfellow,Aggravated Assault,3.0
+6/2020,Longfellow,Arson,2.0
+6/2020,Longfellow,Auto Theft,10.0
+6/2020,Longfellow,Burglary,19.0
+6/2020,Longfellow,Homicide,0.0
+6/2020,Longfellow,Larceny,6.0
+6/2020,Longfellow,Rape,1.0
+6/2020,Longfellow,Robbery,4.0
+6/2020,Loring Park,Aggravated Assault,6.0
+6/2020,Loring Park,Arson,0.0
+6/2020,Loring Park,Auto Theft,7.0
+6/2020,Loring Park,Burglary,1.0
+6/2020,Loring Park,Homicide,0.0
+6/2020,Loring Park,Larceny,27.0
+6/2020,Loring Park,Rape,1.0
+6/2020,Loring Park,Robbery,7.0
+6/2020,Lowry Hill,Aggravated Assault,0.0
+6/2020,Lowry Hill,Arson,0.0
+6/2020,Lowry Hill,Auto Theft,3.0
+6/2020,Lowry Hill,Burglary,7.0
+6/2020,Lowry Hill,Homicide,0.0
+6/2020,Lowry Hill,Larceny,6.0
+6/2020,Lowry Hill,Rape,0.0
+6/2020,Lowry Hill,Robbery,2.0
+6/2020,Lowry Hill East,Aggravated Assault,5.0
+6/2020,Lowry Hill East,Arson,0.0
+6/2020,Lowry Hill East,Auto Theft,8.0
+6/2020,Lowry Hill East,Burglary,30.0
+6/2020,Lowry Hill East,Homicide,0.0
+6/2020,Lowry Hill East,Larceny,24.0
+6/2020,Lowry Hill East,Rape,1.0
+6/2020,Lowry Hill East,Robbery,1.0
+6/2020,Lyndale,Aggravated Assault,4.0
+6/2020,Lyndale,Arson,2.0
+6/2020,Lyndale,Auto Theft,5.0
+6/2020,Lyndale,Burglary,24.0
+6/2020,Lyndale,Homicide,0.0
+6/2020,Lyndale,Larceny,8.0
+6/2020,Lyndale,Rape,0.0
+6/2020,Lyndale,Robbery,1.0
+6/2020,Lynnhurst,Aggravated Assault,0.0
+6/2020,Lynnhurst,Arson,0.0
+6/2020,Lynnhurst,Auto Theft,3.0
+6/2020,Lynnhurst,Burglary,10.0
+6/2020,Lynnhurst,Homicide,0.0
+6/2020,Lynnhurst,Larceny,2.0
+6/2020,Lynnhurst,Rape,0.0
+6/2020,Lynnhurst,Robbery,1.0
+6/2020,Marcy Holmes,Aggravated Assault,4.0
+6/2020,Marcy Holmes,Arson,0.0
+6/2020,Marcy Holmes,Auto Theft,9.0
+6/2020,Marcy Holmes,Burglary,10.0
+6/2020,Marcy Holmes,Homicide,0.0
+6/2020,Marcy Holmes,Larceny,31.0
+6/2020,Marcy Holmes,Rape,2.0
+6/2020,Marcy Holmes,Robbery,5.0
+6/2020,Marshall Terrace,Aggravated Assault,1.0
+6/2020,Marshall Terrace,Arson,0.0
+6/2020,Marshall Terrace,Auto Theft,2.0
+6/2020,Marshall Terrace,Burglary,2.0
+6/2020,Marshall Terrace,Homicide,0.0
+6/2020,Marshall Terrace,Larceny,5.0
+6/2020,Marshall Terrace,Rape,0.0
+6/2020,Marshall Terrace,Robbery,0.0
+6/2020,McKinley,Aggravated Assault,9.0
+6/2020,McKinley,Arson,0.0
+6/2020,McKinley,Auto Theft,4.0
+6/2020,McKinley,Burglary,1.0
+6/2020,McKinley,Homicide,2.0
+6/2020,McKinley,Larceny,6.0
+6/2020,McKinley,Rape,0.0
+6/2020,McKinley,Robbery,0.0
+6/2020,Mid - City Industrial,Aggravated Assault,0.0
+6/2020,Mid - City Industrial,Arson,0.0
+6/2020,Mid - City Industrial,Auto Theft,0.0
+6/2020,Mid - City Industrial,Burglary,0.0
+6/2020,Mid - City Industrial,Homicide,0.0
+6/2020,Mid - City Industrial,Larceny,1.0
+6/2020,Mid - City Industrial,Rape,0.0
+6/2020,Mid - City Industrial,Robbery,0.0
+6/2020,Midtown Phillips,Aggravated Assault,3.0
+6/2020,Midtown Phillips,Arson,1.0
+6/2020,Midtown Phillips,Auto Theft,13.0
+6/2020,Midtown Phillips,Burglary,23.0
+6/2020,Midtown Phillips,Homicide,1.0
+6/2020,Midtown Phillips,Larceny,16.0
+6/2020,Midtown Phillips,Rape,2.0
+6/2020,Midtown Phillips,Robbery,8.0
+6/2020,Minnehaha,Aggravated Assault,1.0
+6/2020,Minnehaha,Arson,0.0
+6/2020,Minnehaha,Auto Theft,1.0
+6/2020,Minnehaha,Burglary,3.0
+6/2020,Minnehaha,Homicide,0.0
+6/2020,Minnehaha,Larceny,15.0
+6/2020,Minnehaha,Rape,0.0
+6/2020,Minnehaha,Robbery,1.0
+6/2020,Morris Park,Aggravated Assault,0.0
+6/2020,Morris Park,Arson,0.0
+6/2020,Morris Park,Auto Theft,0.0
+6/2020,Morris Park,Burglary,0.0
+6/2020,Morris Park,Homicide,0.0
+6/2020,Morris Park,Larceny,2.0
+6/2020,Morris Park,Rape,0.0
+6/2020,Morris Park,Robbery,0.0
+6/2020,Near - North,Aggravated Assault,20.0
+6/2020,Near - North,Arson,0.0
+6/2020,Near - North,Auto Theft,7.0
+6/2020,Near - North,Burglary,8.0
+6/2020,Near - North,Homicide,0.0
+6/2020,Near - North,Larceny,5.0
+6/2020,Near - North,Rape,4.0
+6/2020,Near - North,Robbery,3.0
+6/2020,Nicollet Island - East Bank,Aggravated Assault,1.0
+6/2020,Nicollet Island - East Bank,Arson,0.0
+6/2020,Nicollet Island - East Bank,Auto Theft,0.0
+6/2020,Nicollet Island - East Bank,Burglary,2.0
+6/2020,Nicollet Island - East Bank,Homicide,0.0
+6/2020,Nicollet Island - East Bank,Larceny,7.0
+6/2020,Nicollet Island - East Bank,Rape,0.0
+6/2020,Nicollet Island - East Bank,Robbery,0.0
+6/2020,North Loop,Aggravated Assault,2.0
+6/2020,North Loop,Arson,0.0
+6/2020,North Loop,Auto Theft,4.0
+6/2020,North Loop,Burglary,8.0
+6/2020,North Loop,Homicide,0.0
+6/2020,North Loop,Larceny,23.0
+6/2020,North Loop,Rape,1.0
+6/2020,North Loop,Robbery,1.0
+6/2020,Northeast Park,Aggravated Assault,0.0
+6/2020,Northeast Park,Arson,0.0
+6/2020,Northeast Park,Auto Theft,0.0
+6/2020,Northeast Park,Burglary,0.0
+6/2020,Northeast Park,Homicide,0.0
+6/2020,Northeast Park,Larceny,17.0
+6/2020,Northeast Park,Rape,0.0
+6/2020,Northeast Park,Robbery,0.0
+6/2020,Northrop,Aggravated Assault,0.0
+6/2020,Northrop,Arson,0.0
+6/2020,Northrop,Auto Theft,5.0
+6/2020,Northrop,Burglary,9.0
+6/2020,Northrop,Homicide,0.0
+6/2020,Northrop,Larceny,4.0
+6/2020,Northrop,Rape,0.0
+6/2020,Northrop,Robbery,0.0
+6/2020,Page,Aggravated Assault,0.0
+6/2020,Page,Arson,0.0
+6/2020,Page,Auto Theft,0.0
+6/2020,Page,Burglary,1.0
+6/2020,Page,Homicide,0.0
+6/2020,Page,Larceny,2.0
+6/2020,Page,Rape,0.0
+6/2020,Page,Robbery,0.0
+6/2020,Phillips West,Aggravated Assault,7.0
+6/2020,Phillips West,Arson,0.0
+6/2020,Phillips West,Auto Theft,5.0
+6/2020,Phillips West,Burglary,7.0
+6/2020,Phillips West,Homicide,0.0
+6/2020,Phillips West,Larceny,8.0
+6/2020,Phillips West,Rape,1.0
+6/2020,Phillips West,Robbery,5.0
+6/2020,Powderhorn Park,Aggravated Assault,7.0
+6/2020,Powderhorn Park,Arson,1.0
+6/2020,Powderhorn Park,Auto Theft,16.0
+6/2020,Powderhorn Park,Burglary,17.0
+6/2020,Powderhorn Park,Homicide,1.0
+6/2020,Powderhorn Park,Larceny,30.0
+6/2020,Powderhorn Park,Rape,3.0
+6/2020,Powderhorn Park,Robbery,8.0
+6/2020,Prospect Park - East River Road,Aggravated Assault,4.0
+6/2020,Prospect Park - East River Road,Arson,0.0
+6/2020,Prospect Park - East River Road,Auto Theft,7.0
+6/2020,Prospect Park - East River Road,Burglary,4.0
+6/2020,Prospect Park - East River Road,Homicide,0.0
+6/2020,Prospect Park - East River Road,Larceny,18.0
+6/2020,Prospect Park - East River Road,Rape,2.0
+6/2020,Prospect Park - East River Road,Robbery,3.0
+6/2020,Regina,Aggravated Assault,0.0
+6/2020,Regina,Arson,0.0
+6/2020,Regina,Auto Theft,1.0
+6/2020,Regina,Burglary,1.0
+6/2020,Regina,Homicide,0.0
+6/2020,Regina,Larceny,3.0
+6/2020,Regina,Rape,0.0
+6/2020,Regina,Robbery,0.0
+6/2020,Seward,Aggravated Assault,3.0
+6/2020,Seward,Arson,0.0
+6/2020,Seward,Auto Theft,7.0
+6/2020,Seward,Burglary,13.0
+6/2020,Seward,Homicide,0.0
+6/2020,Seward,Larceny,12.0
+6/2020,Seward,Rape,0.0
+6/2020,Seward,Robbery,2.0
+6/2020,Sheridan,Aggravated Assault,1.0
+6/2020,Sheridan,Arson,0.0
+6/2020,Sheridan,Auto Theft,1.0
+6/2020,Sheridan,Burglary,2.0
+6/2020,Sheridan,Homicide,0.0
+6/2020,Sheridan,Larceny,9.0
+6/2020,Sheridan,Rape,0.0
+6/2020,Sheridan,Robbery,0.0
+6/2020,Shingle Creek,Aggravated Assault,0.0
+6/2020,Shingle Creek,Arson,0.0
+6/2020,Shingle Creek,Auto Theft,2.0
+6/2020,Shingle Creek,Burglary,2.0
+6/2020,Shingle Creek,Homicide,0.0
+6/2020,Shingle Creek,Larceny,4.0
+6/2020,Shingle Creek,Rape,0.0
+6/2020,Shingle Creek,Robbery,1.0
+6/2020,St. Anthony East,Aggravated Assault,0.0
+6/2020,St. Anthony East,Arson,0.0
+6/2020,St. Anthony East,Auto Theft,1.0
+6/2020,St. Anthony East,Burglary,1.0
+6/2020,St. Anthony East,Homicide,0.0
+6/2020,St. Anthony East,Larceny,3.0
+6/2020,St. Anthony East,Rape,0.0
+6/2020,St. Anthony East,Robbery,0.0
+6/2020,St. Anthony West,Aggravated Assault,1.0
+6/2020,St. Anthony West,Arson,0.0
+6/2020,St. Anthony West,Auto Theft,1.0
+6/2020,St. Anthony West,Burglary,3.0
+6/2020,St. Anthony West,Homicide,0.0
+6/2020,St. Anthony West,Larceny,5.0
+6/2020,St. Anthony West,Rape,0.0
+6/2020,St. Anthony West,Robbery,0.0
+6/2020,Standish,Aggravated Assault,1.0
+6/2020,Standish,Arson,0.0
+6/2020,Standish,Auto Theft,2.0
+6/2020,Standish,Burglary,5.0
+6/2020,Standish,Homicide,0.0
+6/2020,Standish,Larceny,5.0
+6/2020,Standish,Rape,0.0
+6/2020,Standish,Robbery,0.0
+6/2020,Steven's Square - Loring Heights,Aggravated Assault,4.0
+6/2020,Steven's Square - Loring Heights,Arson,0.0
+6/2020,Steven's Square - Loring Heights,Auto Theft,4.0
+6/2020,Steven's Square - Loring Heights,Burglary,4.0
+6/2020,Steven's Square - Loring Heights,Homicide,0.0
+6/2020,Steven's Square - Loring Heights,Larceny,10.0
+6/2020,Steven's Square - Loring Heights,Rape,0.0
+6/2020,Steven's Square - Loring Heights,Robbery,1.0
+6/2020,Sumner - Glenwood,Aggravated Assault,1.0
+6/2020,Sumner - Glenwood,Arson,0.0
+6/2020,Sumner - Glenwood,Auto Theft,2.0
+6/2020,Sumner - Glenwood,Burglary,1.0
+6/2020,Sumner - Glenwood,Homicide,0.0
+6/2020,Sumner - Glenwood,Larceny,5.0
+6/2020,Sumner - Glenwood,Rape,1.0
+6/2020,Sumner - Glenwood,Robbery,0.0
+6/2020,Tangletown,Aggravated Assault,0.0
+6/2020,Tangletown,Arson,0.0
+6/2020,Tangletown,Auto Theft,2.0
+6/2020,Tangletown,Burglary,1.0
+6/2020,Tangletown,Homicide,0.0
+6/2020,Tangletown,Larceny,8.0
+6/2020,Tangletown,Rape,0.0
+6/2020,Tangletown,Robbery,0.0
+6/2020,University of Minnesota,Aggravated Assault,0.0
+6/2020,University of Minnesota,Arson,0.0
+6/2020,University of Minnesota,Auto Theft,1.0
+6/2020,University of Minnesota,Burglary,1.0
+6/2020,University of Minnesota,Homicide,0.0
+6/2020,University of Minnesota,Larceny,2.0
+6/2020,University of Minnesota,Rape,0.0
+6/2020,University of Minnesota,Robbery,0.0
+6/2020,Ventura Village,Aggravated Assault,11.0
+6/2020,Ventura Village,Arson,0.0
+6/2020,Ventura Village,Auto Theft,16.0
+6/2020,Ventura Village,Burglary,4.0
+6/2020,Ventura Village,Homicide,0.0
+6/2020,Ventura Village,Larceny,10.0
+6/2020,Ventura Village,Rape,0.0
+6/2020,Ventura Village,Robbery,6.0
+6/2020,Victory,Aggravated Assault,0.0
+6/2020,Victory,Arson,1.0
+6/2020,Victory,Auto Theft,7.0
+6/2020,Victory,Burglary,5.0
+6/2020,Victory,Homicide,0.0
+6/2020,Victory,Larceny,4.0
+6/2020,Victory,Rape,0.0
+6/2020,Victory,Robbery,1.0
+6/2020,Waite Park,Aggravated Assault,2.0
+6/2020,Waite Park,Arson,0.0
+6/2020,Waite Park,Auto Theft,2.0
+6/2020,Waite Park,Burglary,2.0
+6/2020,Waite Park,Homicide,0.0
+6/2020,Waite Park,Larceny,9.0
+6/2020,Waite Park,Rape,0.0
+6/2020,Waite Park,Robbery,1.0
+6/2020,Webber - Camden,Aggravated Assault,9.0
+6/2020,Webber - Camden,Arson,2.0
+6/2020,Webber - Camden,Auto Theft,5.0
+6/2020,Webber - Camden,Burglary,6.0
+6/2020,Webber - Camden,Homicide,1.0
+6/2020,Webber - Camden,Larceny,6.0
+6/2020,Webber - Camden,Rape,0.0
+6/2020,Webber - Camden,Robbery,2.0
+6/2020,Wenonah,Aggravated Assault,2.0
+6/2020,Wenonah,Arson,0.0
+6/2020,Wenonah,Auto Theft,3.0
+6/2020,Wenonah,Burglary,1.0
+6/2020,Wenonah,Homicide,0.0
+6/2020,Wenonah,Larceny,2.0
+6/2020,Wenonah,Rape,0.0
+6/2020,Wenonah,Robbery,0.0
+6/2020,West Maka Ska,Aggravated Assault,0.0
+6/2020,West Maka Ska,Arson,0.0
+6/2020,West Maka Ska,Auto Theft,1.0
+6/2020,West Maka Ska,Burglary,11.0
+6/2020,West Maka Ska,Homicide,0.0
+6/2020,West Maka Ska,Larceny,6.0
+6/2020,West Maka Ska,Rape,0.0
+6/2020,West Maka Ska,Robbery,0.0
+6/2020,Whittier,Aggravated Assault,10.0
+6/2020,Whittier,Arson,1.0
+6/2020,Whittier,Auto Theft,25.0
+6/2020,Whittier,Burglary,23.0
+6/2020,Whittier,Homicide,0.0
+6/2020,Whittier,Larceny,29.0
+6/2020,Whittier,Rape,1.0
+6/2020,Whittier,Robbery,4.0
+6/2020,Willard - Hay,Aggravated Assault,14.0
+6/2020,Willard - Hay,Arson,2.0
+6/2020,Willard - Hay,Auto Theft,7.0
+6/2020,Willard - Hay,Burglary,3.0
+6/2020,Willard - Hay,Homicide,0.0
+6/2020,Willard - Hay,Larceny,5.0
+6/2020,Willard - Hay,Rape,0.0
+6/2020,Willard - Hay,Robbery,1.0
+6/2020,Windom,Aggravated Assault,4.0
+6/2020,Windom,Arson,0.0
+6/2020,Windom,Auto Theft,1.0
+6/2020,Windom,Burglary,4.0
+6/2020,Windom,Homicide,0.0
+6/2020,Windom,Larceny,7.0
+6/2020,Windom,Rape,0.0
+6/2020,Windom,Robbery,2.0
+6/2020,Windom Park,Aggravated Assault,0.0
+6/2020,Windom Park,Arson,0.0
+6/2020,Windom Park,Auto Theft,1.0
+6/2020,Windom Park,Burglary,2.0
+6/2020,Windom Park,Homicide,0.0
+6/2020,Windom Park,Larceny,2.0
+6/2020,Windom Park,Rape,0.0
+6/2020,Windom Park,Robbery,0.0
