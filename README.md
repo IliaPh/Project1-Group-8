@@ -1,60 +1,110 @@
 # Project 1, Group 8
-Group Project 1
 
-Principal Findings
 
-======================================================================
-Exploratory Data Analysis Jupyter Notebook
+## The Effect of the George Floyd Killing on Crime in Minneapolis
 
-All - Interest in Crime changes in twin cities, that focused our inquiry on The George Floyd (GF) killing and its effect on crime in Minneapolis neighborhoods. 
- 
-Ryan - cleaning and wrangling the data, initial visualizations to see what our data looks like
 
-Ilia - plotting longer term crime trends, showing GF “spike”
+## Research Team: *Ilia, Loukya, Ryan, William* (Group 8)
 
-Loukya - plotting distribution of property and violent crimes before and after GF
 
-William - plotting aggregate neighborhood % change crime data for month before and after GF 
-
-======================================================================
-Final Analysis Jupyter Notebook
+## Executive Summary
 
 
 
-Ilia’s Analysis
+*The Project's Conception*
 
-During a 2-year period before the George Floyd event, the total crime cases reflect ups and downs.  The crime cases  significantly increased after February 2019 and went down from July 2019. The crime cases remained relatively stable until the George Floyd event with the slight changes.
-The crime noticeably increased for a few months after the George Floyd event, and it started to decline from August 2020 to February 2021. After February, it started to increase again, the same as it was shown before the George Floyd killing. 
-The line plot of total crimes combined before and after the George Floyd killing reflects a 4-year period, two years before and after the event. Based on the graph, the crime rates increased after the George Floyd killing but at the same time the trend remained the same. The crime rate tends to increase during Spring and Summer, and starts to decrease in Fall and Winter. The George Floyd killing did not reflect a significant impact on the total crime in Minneapolis. However, some of the neighborhoods in Minneapolis were negatively impacted, which is detailed in the analysis below.
+Our plan was to obtain and analyze City of Minneapolis crime data to determine whether the George Floyd killing on May 25, 2020 affected crime in the city. We easily discovered a relatively tidy dataset in .csv file format from the City of Minneapolis itself, published online as part of the city's "Open Data Minneapolis" (https://opendata.minneapolismn.gov/) initiative. The dataset provided crime data from 2017 to the present, arranged by neighborhood and type of crime. 
 
 
 
-William’s Analysis
+*Our Research Questions*
 
-Minneapolis has 87 officially recognized neighborhoods.
-87 ticks on a plot seemed too unwieldy, so I searched for a way to group them.
-Upon examining our dataset, we discovered that some neighborhoods around the former “Lake Calhoun” also changed their names. Once we did some detective work on these name changes, we were able to tidy the dataset and arrive at the same number of data points per neighborhood. 
+Each member of the research team developed a research question to help us frame our inquiry: 
 
-It turns out that there are 11 officially recognized neighborhood “communities” which are conglomerate groups of individual neighborhoods, so I chose to arrange the data by these 11.  (https://en.wikipedia.org/wiki/Neighborhoods_of_Minneapolis)
-Our dataset was ordered by date, neighborhood, and type of crime. There were 8 types of crimes, with 4 being property crimes and 4 being violent crimes.  
+- Did the distribution of crimes change after the George Floyd killing? LOUKYA
 
+- Did the violent crime rate change after the George Floyd killing? RYAN
 
-Property crime categories = Arson, Auto Theft, Burglary,  Larceny
-(https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/topic-pages/property-crime)
+- Did the property crime rate change after the George Floyd killing? ILIA
 
-Violent crime categories = Aggravated Assault, Homicide, Rape, Robbery
-(https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/topic-pages/violent-crime) 
-
-In order to understand any relationship between the George Floyd killing and crime in Minneapolis, I thought it prudent to examine crime data for the month before the killing and the month after the killing (George Floyd was killed on 5/25/2020, so we used 6/1/2020 as our midpoint.  We considered all of 5/2020 as 1 month before, and all of 6/2020 data as 1 month after.)  
-I looked at changes in numbers of property and violent crimes by neighborhood community, then also calculated % change for this time period. 
+- Which neighborhoods experienced the greatest increases in crime after the George Floyd killing? WILLIAM
 
 
 
-Which neighborhoods in Minneapolis experienced the greatest increases in crime during the George Floyd period? 
-For property crime, the Southwest neighborhood community experienced the greatest % change (25%), followed closely by Camden (22%). 
-For violent crime, the Central and Northeast neighborhood communities tied for the greatest % change (100%), followed closely by University (92%).
-For overall crime (i.e. property + violent), the Southwest neighborhood community experienced the greatest % change (29%). 
-FYI: 38th Street and Chicago Avenue (aka “George Floyd Square”) is in the Powderhorn community
+*Our Hypothesis*
+
+As we explored the dataset to begin to answer these research questions, we developed the following hypothesis for testing purposes:
+
+"Crime worsened in Minneapolis after the George Floyd killing."
+
+The *null hypothesis* thus became:
+
+"The George Floyd killing had no effect on crime in Minneapolis."
+
+*Our Strategy*
+
+
+Our strategy was three-fold: 
+
+**(1) Examine the crime data with a "wide" lens** 
+
+We looked at 2 years worth of data *before* the George Floyd killing and 2 years *after* the George Floyd killing. Wrangling the dataset, we were able to visualize crime rate trend lines and the distribution and aggregation of 8 particular types of crime.  When it was possible to do so, we rendered separate visualizations for property crime, violent crime, and overall crime.        
+
+**(2) Examine the crime data with a "narrow" lens** 
+
+We looked at 1 month worth of data *before* the George Floyd killing and 1 month *after* the George Floyd killing, and added year-over-year comparisons of these months to see what "typical" May and June crime data in Minneapolis looked like. Our visualizations for this narrow time period also represent property crime, violent crime, and overall crime.  They focus in on numerical difference and percent change by neighborhood community.   
+
+**(3) Run student t-tests on our dataset to attempt to reject the *Null Hypothesis***
+
+Since we wanted to compare "before George Floyd" and "after George Floyd" for both the "wide" and "narrow" crime datasets, we chose the independence "Student's t-test" (comparing the means of one population with the mean of another). 
+
+
+
+6 t-tests were conducted in total: 
+
+1. first
+2. second
+3. third
+4. fourth
+5. fifth
+6. sixth
+
+
+
+*Principal Findings*
+
+
+Our t-test results showed that we are unable to reject the *null hypothesis*, as each p-value did not meet the p-value < 0.05 threshold. Thus, our analysis must conclude that we have not discovered any statistically significant relationship between the George Floyd killing and crime in Minneapolis. 
+
+Nevertheless, we were able to answer our research questions to our satisfaction. 
+
+- Did the distribution of crimes change after the George Floyd killing? 
+
+    (Loukya's answer & relevant plots)
+
+- Did the violent crime rate change after the George Floyd killing? 
+
+    (Ryan's answer & relevant plots)
+
+- Did the property crime rate change after the George Floyd killing?
+
+    (Ilia's answer & relevant plots)
+
+- Which neighborhoods experienced the greatest increases in crime after the George Floyd killing?
+
+    (William's answer & relevant plots)
+
+
+*Take-aways*
+
+While we were able to answer our research questions, the research team was surprised with the t-test results. Although we were unable to reject the null hypothesis, the data show alarming upticks in some categories of crime across certain neighborhoods of Minneapolis. Moreover, our line plots clearly show that crime in Minneapolis fluctuates seasonally to a large degree. Further analysis should be conducted to guide Minneapolis policy-makers in their pursuit of crime-reducing measures. 
+
+
+## Dataset 
+
+This data set covers Minneapolis Neighborhoods from 2017-2022 and is a live data set that gets updated
+
+https://opendata.minneapolismn.gov/datasets/neighborhood-crime-stats/explore
 
 
 
@@ -74,25 +124,3 @@ All Crime (1 month before and after GF)
 Ttest_indResult(statistic=-0.5902953307278089, pvalue=0.5617522529882506)
 
 Since the p-values for all t-tests are not < 0.05, we cannot reject the null hypothesis. 
-
-
-
-Ryan's Analysis
-
-Based off of the data for 2 years before and 2 years after the George Floyd event, you can see that violent crimes rates rose (excluding rape) and that property crime rates of arson and theft rose but burglary and larceny fell. 
-Before the George Floyd event there were a total of  46,108 crimes reported in the previous 2 years but after there were 50,318 crimes reported which is roughly a 9% increase.
-Violent crimes before the George Floyd event totaled 7,558 while after they totaled 10,304 cases. This tracks to roughly a 36% increase in violent crimes.
-Property crimes before the George Floyd event totaled 38,550 while after they totaled 40,104 cases. This tracks to roughly a 4% increase in property crimes.
-
-
-
-Loukya's Analysis
-
-Based on the visualizations :
-
-We can say that before the incident Larceny accounts for almost 55.6% of the total crime whereas it is reduced to 48.7% after the incident.
-There is a huge increase in Auto Theft and Robbery after the incident from 12.8% to 17.8% and   from 5.7% to 8.5% respectively.
-Crimes like Homicide and Arson also increased by little percentage.
-Crime rate of Burglary and Rape reduced after the incident.
-Aggravated assault also increased after the incident.
-When 
