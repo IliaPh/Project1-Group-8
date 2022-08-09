@@ -3,7 +3,13 @@
 
 <!-- Add gf.jpg here -->
 
-![pic of George Floyd](http://url/gf_pic.jpg)
+<img
+  src="gf_pic.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
 
 # The Effect of the George Floyd Killing on Crime in Minneapolis
 
@@ -16,11 +22,11 @@
 
 ### Executive Summary
 
-####*The Project's Conception*#### 
+*The Project's Conception* 
 
 Our plan was to obtain and analyze City of Minneapolis crime data to determine whether the George Floyd killing on May 25, 2020 affected crime in the city. We easily discovered a relatively tidy dataset in .csv file format from the City of Minneapolis itself, published online as part of the city's "Open Data Minneapolis" (https://opendata.minneapolismn.gov/) initiative. The dataset provided crime data from 2017 to the present, arranged by neighborhood and type of crime. 
 
-####*Our Research Questions*####
+*Our Research Questions*
 
 Each member of the research team developed a research question to help us frame our inquiry: 
 
@@ -32,7 +38,7 @@ Each member of the research team developed a research question to help us frame 
 
 - Which neighborhoods experienced the greatest increases in crime after the George Floyd killing? WILLIAM
 
-####*Our Hypothesis*####
+*Our Hypothesis*
 
 As we explored the dataset to begin to answer these research questions, we developed the following hypothesis for testing purposes:
 
@@ -42,7 +48,7 @@ The *null hypothesis* thus became:
 
 "The George Floyd killing had no effect on crime in Minneapolis."
 
-####*Our Strategy*####
+*Our Strategy*
 
 Our strategy was three-fold: 
 
@@ -67,7 +73,7 @@ Since we wanted to compare "before George Floyd" and "after George Floyd" for bo
 5. fifth
 6. sixth
 
-####*Principal Findings*####
+*Principal Findings*
 
 Our t-test results showed that we are unable to reject the *null hypothesis*, as each p-value did not meet the p-value < 0.05 threshold. Thus, our analysis must conclude that we have not discovered any statistically significant relationship between the George Floyd killing and crime in Minneapolis. 
 
@@ -89,7 +95,7 @@ Nevertheless, we were able to answer our research questions to our satisfaction.
 
     (William's answer & relevant plots)
 
-####*Take-aways*####
+*Take-aways*
 
 While we were able to answer our research questions, the research team was surprised with the t-test results. Although we were unable to reject the null hypothesis, the data show alarming upticks in some categories of crime across certain neighborhoods of Minneapolis. Moreover, our line plots clearly show that crime in Minneapolis fluctuates seasonally to a large degree. Further analysis should be conducted to guide Minneapolis policy-makers in their pursuit of crime-reducing measures. 
 
