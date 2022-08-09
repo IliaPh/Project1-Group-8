@@ -75,8 +75,6 @@ Ttest_indResult(statistic=-0.5902953307278089, pvalue=0.5617522529882506)
 
 Since the p-values for all t-tests are not < 0.05, we cannot reject the null hypothesis. 
 
-[SHOULD WE RUN THIS SAME ANALYSIS ON ILIA AND/OR RYAN’S MORE EXTENSIVE TIME-SERIES DATA? update from Dom: we are doing this correctly, so he suggest that we should run this same test on larger data than what I used (+/- 1 month). So I think he just answered my question in caps above! We can run that tonight. William
-
 
 
 Ryan's Analysis
